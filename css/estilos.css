@@ -1,0 +1,92 @@
+﻿body              { margin:0;  padding:0;  font-size:1.1em;  font-weight:normal;  color:#000000;  text-decoration:none;  background-color:#F7F9F9;  font-family:Arial, Helvetica, sans-serif; }
+form              { margin:0;  padding:0; }
+label             { font-weight:normal;  font-size:1.3em; margin-bottom:2px; }
+hr                { margin:2px 0px 2px 0px;  border-top:1px solid #115E86;  padding:0px; }
+/*
+.espacio          { margin:0px;  padding:0px;  font-size:1em;  font-weight:normal;  color:transparent;  }
+.sinMargenes      { margin:0px;  padding:0px; }
+
+
+.tamanio          { height:28px;  padding:4px 8px 2px 8px; }
+.tamanioIco       { height:24px;  padding:5px 3px; }
+
+div.titulo        { border:none; background-color:#5e5a5a;  font-size:1.3em;  color:#ffffff;  padding:4px;  }
+
+
+.tituloAccion     { margin:20px 0px 0px 0px;  padding:0px;  font-size:1.1em;  color:#0077C8 !important;  text-align:center; }
+
+.sinRegistros     { font-size:1.3em;  color:#0077C8 !important;  font-weight:bold;  text-align:left; }
+.centrado         { text-align:center;  vertical-align:middle;  font-size:1em;  font-weight:bold; }
+.wordReservada    { text-align:center;  vertical-align:middle;  font-size:1.2em;  font-weight:normal;  color:red; }
+.btnCentrado      { font-size:1.3em !important;  padding:8px; }
+
+.agrupar          { float:none;  position:relative;  display:table;  border-collapse:separate; }
+
+.leftTop		      { padding-left:40px;  text-align:left;  vertical-align:middle;  font-size:1em; }
+.rightTop         { padding-right:40px; text-align:right; vertical-align:middle;  font-size:1em; }
+
+
+
+.titTableroCh             { color:#0077C8 !important; font-size:1.2em;  color:#003057;  padding:5px;  font-weight:bold;  margin:0px 0px 5px 0px; }
+.titTablero               { color:#0077C8 !important; font-size:1.3em;  color:#003057;  padding:5px;  font-weight:bold;  margin:0px 0px 5px 0px;  text-align:center; }
+@media (max-width: 950px) { .titTablero { text-align:left; } }
+@media (max-width: 767px) { .titTablero { display: none; } }
+
+
+.modal-header { border-bottom:none;  padding:15px 15px 0px 15px; }
+.textoModal   { font-size:1.5em;  text-align:left;  vertical-align:middle;  color:#0077C8;  font-weight:bold; } 
+
+.titPaginar   { vertical-align:middle; padding:0px; padding-top:8px; font-size:1.2em; }
+.pagination>li> a:hover, .pagination>li> span:hover, 
+.pagination>li> a:focus, .pagination>li> span:focus { color:#ffffff;  background-color:#0077C8;  border-color:#0077C8; }
+
+.pagination>.active> a,       .pagination>.active> span, 
+.pagination>.active> a:hover, .pagination>.active> span:hover, 
+.pagination>.active> a:focus, .pagination>.active> span:focus { color:#ffffff;  background-color:#0077C8;  border-color:#0077C8; }
+
+.pagination>li>a, .pagination>li>span { padding:3px 8px;  color:#000000; }
+@media (max-width: 480px)  { .pagination>li>a, .pagination>li>span {font-size:.8em;  } }
+
+table.pretty                      { font-size:1.2em;  font-weight:normal;  color:#000000;  margin:0px;  padding:0px; }
+
+table.pretty thead {
+  color: #ffffff;
+  background-color: #115E86;
+}
+table.pretty thead th             { border:1px solid #ffffff; }
+table.pretty thead th a.sorting   { color:#ffffff;  text-decoration:none !important;  cursor:pointer;  }
+@media (max-width: 480px)         { table.pretty {font-size:1.2em;  } }
+
+.table > tbody > tr > th, 
+.table > thead > tr > th          { padding:6px; font-weight:normal }
+.table > tbody > tr > td          { padding:4px; color:#000000; border-top:none; border-color:#f9fafb; height:26px; vertical-align:middle; }
+.table > tbody > tr > td.titulo   { padding:15px;  font-size:1.2em;  color:#003057;  text-align:center; }
+
+.table > tbody > tr > td.info,
+.table > tbody > tr.info > td,
+.table > tbody > tr.info > th   { background-color: #E5E7E9; }
+
+.table-hover > tbody > tr > td.info:hover,
+.table-hover > tbody > tr > th.info:hover,
+.table-hover > tbody > tr.info:hover > td,
+.table-hover > tbody > tr:hover > .info,
+.table-hover > tbody > tr.info:hover > th { background-color: #eae8e8; }
+
+.badge { margin-bottom:4px; }
+
+a.enlace, a.enlace:Visited, a.enlace:Link, 
+a.enlace:active		    { text-decoration:underline;  font-weight:bold; }
+a.enlace:hover			  { text-decoration:underline;  font-weight:bold; }
+
+a.vinculo, a.vinculo:Visited, a.vinculo:Link, 
+a.vinculo:active		  { text-decoration:none;  color:#000000;  font-weight:normal; }
+a.vinculo:hover			  { text-decoration:none;  color:#000000;  font-weight:normal; }
+
+a.blanco, a.blanco:Visited, a.blanco:Link, 
+a.blanco:active       { text-decoration:none;  color:#ffffff;  font-weight:bold; }
+a.blanco:hover			  { text-decoration:underline;  color:#ffffff;  font-weight:bold; }
+*/
+a.linkMenu, a.linkMenu:Visited, a.linkMenu:Link,
+a.linkMenu:active   { font-size:1.4em;  color:#27251F;  text-decoration:none; font-weight:normal; }
+a.linkMenu:hover    { font-size:1.4em;  color:#0077C8;  text-decoration:none; font-weight:normal; }
+

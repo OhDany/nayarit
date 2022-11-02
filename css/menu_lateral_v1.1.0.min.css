@@ -1,0 +1,441 @@
+﻿.menEnc {
+    margin: 0;
+    border-radius: 4px 4px 0 0;
+    padding: 10px;
+    font-size: 1.28em;
+    color: #fff
+}
+
+.pla_men_lat {
+    padding-right: 26px
+}
+
+.CAE_men {
+    background: #060
+}
+
+.CG_men {
+    background: #620042
+}
+
+.CE_men {
+    background: #006161
+}
+
+.CPV_men {
+    background: #a33100
+}
+
+.EA_men {
+    background: #8a4700
+}
+
+.EE_men {
+    background: #b30000
+}
+
+.EH_men {
+    background: #a90073
+}
+
+.IP_men {
+    background: #006161
+}
+
+.OP_men {
+    background: #08507c
+}
+
+.RA-E_men {
+    background: #060
+}
+
+.SCN_men {
+    background: #006161
+}
+
+.prgen_men {
+    background: #79142A
+}
+
+.AGP_men {
+    background: #060
+}
+
+.CAT_men {
+    background: #060
+}
+
+.COM_men {
+    background: #006161
+}
+
+.COMEXT_men {
+    background: #006161
+}
+
+.CONS_men {
+    background: #006161
+}
+
+.EDU_men {
+    background: #a33100
+}
+
+.EOC_men {
+    background: #006161
+}
+
+.EMS_men {
+    background: #006161
+}
+
+.GOB_men {
+    background: #620042
+}
+
+.HOGVIV_men {
+    background: #a33100
+}
+
+.IMTE_men {
+    background: #ae191b
+}
+
+.MAN_men {
+    background: #006161
+}
+
+.MAP_men {
+    background: #595959
+}
+
+.MGEOD_men {
+    background: #595959
+}
+
+.MGEOE_men {
+    background: #066e5a
+}
+
+.MA_men {
+    background: #060
+}
+
+.MIN_men {
+    background: #006161
+}
+
+.PCN_men {
+    background: #006161
+}
+
+.POB_men {
+    background: #a33100
+}
+
+.PREC_men {
+    background: #006161
+}
+
+.SSS_men {
+    background: #a33100
+}
+
+.SPJ_men {
+    background: #620042
+}
+
+.SNF_men {
+    background: #006161
+}
+
+.TICS_men {
+    background: #006161
+}
+
+.TRANS_men {
+    background: #006161
+}
+
+.TUR_men {
+    background: #006161
+}
+
+.PG_men {
+    background: #674cae
+}
+
+.lista-aside ul {
+    padding-left: 10px
+}
+
+.lista-aside li strong {
+    display: block;
+    padding: 8px;
+    margin: 0
+}
+
+.lista-aside li a {
+    padding-right: 20px;
+    position: relative;
+    padding-left: 6px !important
+}
+
+.txtNodActivo {
+    background: #e9e9e9
+}
+
+.inegi-fldesp {
+    margin-right: -13px;
+    position: absolute;
+    top: 7px;
+    right: 18px
+}
+
+.panel-colapsable {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .2s ease-out
+}
+
+.CAE_menu .inegi-fldesp {
+    color: #060 !important
+}
+
+.CG_menu .inegi-fldesp {
+    color: #620042 !important
+}
+
+.CE_menu .inegi-fldesp {
+    color: #006161 !important
+}
+
+.CPV_menu .inegi-fldesp {
+    color: #a33100 !important
+}
+
+.EA_menu .inegi-fldesp {
+    color: #8a4700 !important
+}
+
+.EE_menu .inegi-fldesp {
+    color: #b30000 !important
+}
+
+.EH_menu .inegi-fldesp {
+    color: #a90073 !important
+}
+
+.IP_menu .inegi-fldesp {
+    color: #006161 !important
+}
+
+.OP_menu .inegi-fldesp {
+    color: #08507c !important
+}
+
+.RA-E_menu .inegi-fldesp {
+    color: #060 !important
+}
+
+.SCN_menu .inegi-fldesp {
+    color: #006161 !important
+}
+
+.prgen_menu .inegi-fldesp {
+    color: #595959 !important
+}
+
+.AGP_menu .inegi-fldesp {
+    color: #060
+}
+
+.CAT_menu .inegi-fldesp {
+    color: #060
+}
+
+.COM_menu .inegi-fldesp {
+    color: #006161
+}
+
+.COMEXT_menu .inegi-fldesp {
+    color: #006161
+}
+
+.CONS_menu .inegi-fldesp {
+    color: #006161
+}
+
+.EDU_menu .inegi-fldesp {
+    color: #a33100
+}
+
+.EOC_menu .inegi-fldesp {
+    color: #006161
+}
+
+.EMS_menu .inegi-fldesp {
+    color: #006161
+}
+
+.GOB_menu .inegi-fldesp {
+    color: #620042
+}
+
+.HOGVIV_menu .inegi-fldesp {
+    color: #a33100
+}
+
+.IMTE_menu .inegi-fldesp {
+    color: #ae191b
+}
+
+.MAN_menu .inegi-fldesp {
+    color: #006161
+}
+
+.MAP_menu .inegi-fldesp {
+    color: #595959
+}
+
+.MGEOD_menu .inegi-fldesp {
+    color: #595959
+}
+
+.MGEOE_menu .inegi-fldesp {
+    color: #066e5a
+}
+
+.MA_menu .inegi-fldesp {
+    color: #060
+}
+
+.MIN_menu .inegi-fldesp {
+    color: #006161
+}
+
+.PCN_menu .inegi-fldesp {
+    color: #006161
+}
+
+.POB_menu .inegi-fldesp {
+    color: #a33100
+}
+
+.PREC_menu .inegi-fldesp {
+    color: #006161
+}
+
+.SSS_menu .inegi-fldesp {
+    color: #a33100
+}
+
+.SPJ_menu .inegi-fldesp {
+    color: #620042
+}
+
+.SNF_menu .inegi-fldesp {
+    color: #006161
+}
+
+.TICS_menu .inegi-fldesp {
+    color: #006161
+}
+
+.TRANS_menu .inegi-fldesp {
+    color: #006161
+}
+
+.TUR_menu .inegi-fldesp {
+    color: #006161
+}
+
+.PG_menu .inegi-fldesp {
+    color: #674cae
+}
+
+.DS_men {
+    background: #f19e38
+}
+
+.EC_men {
+    background: #00a698
+}
+
+.GSPIJ_men {
+    background: #620042
+}
+
+.GMAOTU_men {
+    background: #79bb00
+}
+
+.DS_menu .inegi-fldesp {
+    color: #f19e38 !important
+}
+
+.EC_menu .inegi-fldesp {
+    color: #00a698 !important
+}
+
+.GSPIJ_menu .inegi-fldesp {
+    color: #620042 !important
+}
+
+.GMAOTU_men .inegi-fldesp {
+    color: #79bb00 !important
+}
+
+#MenuLateral ul[role="tree"] a {
+    text-decoration: none;
+    border-color: transparent;
+    color: #2279c0 !important
+}
+
+    #MenuLateral ul[role="tree"] a:hover, #MenuLateral ul[role="tree"] a:focus {
+        text-decoration: underline
+    }
+
+#MenuLateral [role="treeitem"][aria-expanded="false"] > ul {
+    /* display: none */
+}
+
+#MenuLateral [role="treeitem"][aria-expanded="true"] > ul {
+    display: block
+}
+
+#MenuLateral [role="treeitem"] {
+    padding: .125em;
+    border: 2px transparent solid;
+    display: block;
+    position: relative;
+    border-right: none;
+    padding-right: 0
+}
+
+    #MenuLateral [role="treeitem"] span {
+        border: 2px transparent solid
+    }
+
+    #MenuLateral [role="treeitem"][aria-expanded="true"] > span.inegi-nav-desp {
+        transform: translateY(-6%) rotate(-180deg)
+    }
+
+    #MenuLateral [role="treeitem"]:focus {
+        outline: 0
+    }
+
+    #MenuLateral [role="treeitem"].focus, #MenuLateral [role="treeitem"] span.focus {
+        border-color: #000;
+        background-color: #eee
+    }
+
+    #MenuLateral [role="treeitem"].hover, #MenuLateral [role="treeitem"] span.hover {
+        background-color: #ddd
+    }
+
+.componente.texENl {
+    padding-right: 20px;
+    display: block
+}

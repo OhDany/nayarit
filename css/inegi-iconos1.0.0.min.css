@@ -1,0 +1,677 @@
+﻿@font-face {
+    font-family: 'icoinegi';
+    src: url('/fonts/icoinegi.eot?ncrdlq');
+    src: url('/fonts/icoinegi.eot?ncrdlq#iefix') format('embedded-opentype'),url('/fonts/icoinegi.ttf?ncrdlq') format('truetype'),url('/icoinegi.woff?ncrdlq') format('woff'),url('/fonts/icoinegi.svg?ncrdlq#icoinegi') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap
+}
+
+[class^="inegi-"], [class*=" inegi-"] {
+    font-family: 'icoinegi';
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.inegi-dflechad, .inegi-dflechai, .inegi-filtro {
+    font-size: 20px;
+    color: #fff
+}
+
+.inegi-info {
+    font-size: 12pt
+}
+
+.inegi-ruta:before {
+    content: "\e986"
+}
+
+.inegi-inv2:before {
+    content: "\e985"
+}
+
+.inegi-navegarizq:before {
+    content: "\e983"
+}
+
+.inegi-navegarder:before {
+    content: "\e984"
+}
+
+.inegi-ec:before {
+    content: "\e97e"
+}
+
+.inegi-gspij:before {
+    content: "\e97f"
+}
+
+.inegi-mhg:before {
+    content: "\e980"
+}
+
+.inegi-ds:before {
+    content: "\e981"
+}
+
+.inegi-gmaotu:before {
+    content: "\e982"
+}
+
+.inegi-notificacion:before {
+    content: "\e97d"
+}
+
+.inegi-filtro:before {
+    content: "\e97c"
+}
+
+.inegi-gmventana:before {
+    content: "\e977"
+}
+
+.inegi-gmtransparencia:before {
+    content: "\e978"
+}
+
+.inegi-gmtimeline:before {
+    content: "\e979"
+}
+
+.inegi-gmdividir:before {
+    content: "\e97a"
+}
+
+.inegi-gmdeslizar:before {
+    content: "\e97b"
+}
+
+.inegi-extender:before {
+    content: "\e973"
+}
+
+.inegi-estrechar:before {
+    content: "\e974"
+}
+
+.inegi-mascirculo:before {
+    content: "\e975"
+}
+
+.inegi-menoscirculo:before {
+    content: "\e976"
+}
+
+.inegi-enviar:before {
+    content: "\e971"
+}
+
+.inegi-editar:before {
+    content: "\e972"
+}
+
+.inegi-pg:before {
+    content: "\e970"
+}
+
+.inegi-cargar:before {
+    content: "\e96f"
+}
+
+.inegi-pivote:before {
+    content: "\e96e"
+}
+
+.inegi-link:before {
+    content: "\e96c"
+}
+
+.inegi-guardavista:before {
+    content: "\e96d"
+}
+
+.inegi-elipsisv:before {
+    content: "\e969"
+}
+
+.inegi-favoff:before {
+    content: "\e96a"
+}
+
+.inegi-favon:before {
+    content: "\e96b"
+}
+
+.inegi-cat:before {
+    content: "\e968"
+}
+
+.inegi-ordenasc:before {
+    content: "\e964"
+}
+
+.inegi-ordendesc:before {
+    content: "\e965"
+}
+
+.inegi-pivotcol:before {
+    content: "\e966"
+}
+
+.inegi-pivotfila:before {
+    content: "\e967"
+}
+
+.inegi-turismob:before {
+    content: "\e963"
+}
+
+.inegi-visualizar:before {
+    content: "\e962"
+}
+
+.inegi-bloquear:before {
+    content: "\e960"
+}
+
+.inegi-desbloquear:before {
+    content: "\e961"
+}
+
+.inegi-grafarea:before {
+    content: "\e95d"
+}
+
+.inegi-grafcolumnas:before {
+    content: "\e95e"
+}
+
+.inegi-bibliomapas:before {
+    content: "\e95f"
+}
+
+.inegi-copiaruta:before {
+    content: "\e95c"
+}
+
+.inegi-cultura:before {
+    content: "\e95a"
+}
+
+.inegi-turismo:before {
+    content: "\e95b"
+}
+
+.inegi-ayuda:before {
+    content: "\e959"
+}
+
+.inegi-capasadi:before {
+    content: "\e953"
+}
+
+.inegi-capasact:before {
+    content: "\e954"
+}
+
+.inegi-indicadoresm:before {
+    content: "\e955"
+}
+
+.inegi-inv:before {
+    content: "\e956"
+}
+
+.inegi-denue:before {
+    content: "\e957"
+}
+
+.inegi-atlasedu:before {
+    content: "\e958"
+}
+
+.inegi-infodoc:before {
+    content: "\e952"
+}
+
+.inegi-geodesia:before {
+    content: "\e94c"
+}
+
+.inegi-indices:before {
+    content: "\e94d"
+}
+
+.inegi-mapas:before {
+    content: "\e94e"
+}
+
+.inegi-comercioext:before {
+    content: "\e94f"
+}
+
+.inegi-imagenes:before {
+    content: "\e950"
+}
+
+.inegi-mg:before {
+    content: "\e951"
+}
+
+.inegi-usuarios:before {
+    content: "\e949"
+}
+
+.inegi-usuariob:before {
+    content: "\e94a"
+}
+
+.inegi-usuario:before {
+    content: "\e94b"
+}
+
+.inegi-serviciosnof:before {
+    content: "\e941"
+}
+
+.inegi-pibcn:before {
+    content: "\e942"
+}
+
+.inegi-manufacturas:before {
+    content: "\e943"
+}
+
+.inegi-finanzas:before {
+    content: "\e944"
+}
+
+.inegi-mineria:before {
+    content: "\e945"
+}
+
+.inegi-construccion:before {
+    content: "\e946"
+}
+
+.inegi-comunicaciones:before {
+    content: "\e947"
+}
+
+.inegi-comercio:before {
+    content: "\e948"
+}
+
+.inegi-check:before {
+    content: "\e93f"
+}
+
+.inegi-alert:before {
+    content: "\e940"
+}
+
+.inegi-estadisticasexp:before {
+    content: "\e932"
+}
+
+.inegi-ambiente:before {
+    content: "\e933"
+}
+
+.inegi-ciencia:before {
+    content: "\e934"
+}
+
+.inegi-seguridad:before {
+    content: "\e935"
+}
+
+.inegi-gobierno:before {
+    content: "\e936"
+}
+
+.inegi-hogares:before {
+    content: "\e937"
+}
+
+.inegi-educacion:before {
+    content: "\e938"
+}
+
+.inegi-salud:before {
+    content: "\e939"
+}
+
+.inegi-empleo:before {
+    content: "\e93a"
+}
+
+.inegi-poblacion:before {
+    content: "\e93b"
+}
+
+.inegi-agriganpes:before {
+    content: "\e93c"
+}
+
+.inegi-empresas:before {
+    content: "\e93d"
+}
+
+.inegi-pib:before {
+    content: "\e93e"
+}
+
+.inegi-basedatos:before {
+    content: "\e90c"
+}
+
+.inegi-calendario-blank:before {
+    content: "\e90d"
+}
+
+.inegi-calendario-check:before {
+    content: "\e90e"
+}
+
+.inegi-calendario-mas:before {
+    content: "\e919"
+}
+
+.inegi-calendario-menos:before {
+    content: "\e929"
+}
+
+.inegi-calendario-remover:before {
+    content: "\e92a"
+}
+
+.inegi-compartir:before {
+    content: "\e92b"
+}
+
+.inegi-facebook:before {
+    content: "\e92c"
+}
+
+.inegi-googleplus:before {
+    content: "\e92d"
+}
+
+.inegi-hashtag:before {
+    content: "\e92e"
+}
+
+.inegi-linkedin:before {
+    content: "\e92f"
+}
+
+.inegi-reloj:before {
+    content: "\e930"
+}
+
+.inegi-twitter:before {
+    content: "\e931"
+}
+
+.inegi-noticias:before {
+    content: "\e905"
+}
+
+.inegi-conferencias:before {
+    content: "\e909"
+}
+
+.inegi-calendario:before {
+    content: "\e90a"
+}
+
+.inegi-tenencia:before {
+    content: "\e901"
+}
+
+.inegi-actividadppal:before {
+    content: "\e904"
+}
+
+.inegi-preguntas:before {
+    content: "\e900"
+}
+
+.inegi-servicios:before {
+    content: "\e928"
+}
+
+.inegi-evalua:before {
+    content: "\e927"
+}
+
+.inegi-android:before {
+    content: "\e925"
+}
+
+.inegi-ios:before {
+    content: "\e926"
+}
+
+.inegi-imprimir:before {
+    content: "\e923"
+}
+
+.inegi-comunicacion:before {
+    content: "\e924"
+}
+
+.inegi-adelante:before {
+    content: "\e920"
+}
+
+.inegi-atras:before {
+    content: "\e921"
+}
+
+.inegi-pausa:before {
+    content: "\e922"
+}
+
+.inegi-descargamasiva:before {
+    content: "\e91f"
+}
+
+.inegi-inegi-top:before {
+    content: "\e91e"
+}
+
+.inegi-limpiar:before {
+    content: "\e91d"
+}
+
+.inegi-salir:before {
+    content: "\e91b"
+}
+
+.inegi-rss:before {
+    content: "\e91c"
+}
+
+.inegi-editarmisdatos:before {
+    content: "\e91a"
+}
+
+.inegi-audio:before {
+    content: "\e916"
+}
+
+.inegi-abrircons:before {
+    content: "\e911"
+}
+
+.inegi-actualizar:before {
+    content: "\e912"
+}
+
+.inegi-calcest-act:before {
+    content: "\e913"
+}
+
+.inegi-calcest-inact:before {
+    content: "\e914"
+}
+
+.inegi-consultar:before {
+    content: "\e915"
+}
+
+.inegi-guardar:before {
+    content: "\e917"
+}
+
+.inegi-ordenar:before {
+    content: "\e918"
+}
+
+.inegi-dflechad:before {
+    content: "\e90f"
+}
+
+.inegi-dflechai:before {
+    content: "\e910"
+}
+
+.inegi-asc:before {
+    content: "\e908"
+}
+
+.inegi-desc:before {
+    content: "\e90b"
+}
+
+.inegi-estadistica:before {
+    content: "\e906"
+}
+
+.inegi-indicadores:before {
+    content: "\e907"
+}
+
+.inegi-expandir:before {
+    content: "\e902"
+}
+
+.inegi-datos:before {
+    content: "\e903"
+}
+
+.inegi-tabla:before {
+    content: "\e600"
+}
+
+.inegi-grafica-linea:before {
+    content: "\e601"
+}
+
+.inegi-mapa:before {
+    content: "\e602"
+}
+
+.inegi-info:before {
+    content: "\e603"
+}
+
+.inegi-descarga:before {
+    content: "\e605"
+}
+
+.inegi-cerrar:before {
+    content: "\e606"
+}
+
+.inegi-cruz-c:before {
+    content: "\e607"
+}
+
+.inegi-mas-ca:before {
+    content: "\e608"
+}
+
+.inegi-menos-c:before {
+    content: "\e609"
+}
+
+.inegi-ok-c:before {
+    content: "\e60a"
+}
+
+.inegi-blank:before {
+    content: "\e60b"
+}
+
+.inegi-nav-despa:before {
+    content: "\e627"
+}
+
+.inegi-nav-desp:before {
+    content: "\e60c"
+}
+
+.inegi-nav-izq:before {
+    content: "\e60d"
+}
+
+.inegi-nav-der:before {
+    content: "\e60e"
+}
+
+.inegi-menu:before {
+    content: "\f0c9"
+}
+
+.inegi-flecha-der:before {
+    content: "\e610"
+}
+
+.inegi-flecha-arriba:before {
+    content: "\e611"
+}
+
+.inegi-flecha-abajo:before {
+    content: "\e612"
+}
+
+.inegi-buscar:before {
+    content: "\e613"
+}
+
+.inegi-map-loc:before {
+    content: "\e614"
+}
+
+.inegi-zoom:before {
+    content: "\e615"
+}
+
+.inegi-mail:before {
+    content: "\e616"
+}
+
+.inegi-telefono:before {
+    content: "\e617"
+}
+
+.inegi-dot:before {
+    content: "\e61a"
+}
+
+.inegi-flecha-izq:before {
+    content: "\e625"
+}
+
+.inegi-top:before {
+    content: "\e626"
+}

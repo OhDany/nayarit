@@ -1,0 +1,3118 @@
+﻿p {
+  margin-bottom: 7px
+}
+
+h3 {
+  margin-top: 0;
+  padding: 10px;
+  font-size: 18px;
+  color: #fff;
+  background: #889399
+}
+
+.sto_enca {
+  margin-top: 0;
+  padding: 10px;
+  font-size: 18px;
+  color: #fff;
+  display: block;
+  background: #889399
+}
+
+  .sto_enca .glyphicon {
+    float: right
+  }
+
+  .sto_enca:hover, .sto_enca:focus {
+    background: #4c5458;
+    color: #fff;
+    text-decoration: none
+  }
+
+.inegi-mas-ca, .inegi-menos-c {
+  color: #666;
+  font-size: .7em;
+  padding-top: 3px
+}
+
+.inegi-mas-tm, .inegi-menos-tm {
+  margin: 0 5px 0 0;
+  cursor: pointer;
+  font-size: 15px;
+  color: #000
+}
+
+h4, .titPresIne1 {
+  color: #2279c0;
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 10px 10px 0 10px;
+  font-size: 1.6em
+}
+
+.panel-heading h4, .panel-heading .titPresIne1 {
+  padding: 0
+}
+
+.pla_gly {
+  color: #2279c0;
+  font-size: .9em;
+  padding-right: 10px
+}
+
+.productos h4 {
+  font-size: 20px;
+  background: #1892b9;
+  width: 260px;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  border-radius: 6px;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  margin-top: -30px;
+  margin-bottom: 10px
+}
+
+.jumbo {
+  margin-bottom: -52px;
+  padding: 10px 0 50px 0
+}
+
+  .jumbo h1 {
+    margin-top: 0;
+    color: #767676;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    font-size: 1.7em;
+    margin-bottom: 0
+  }
+
+h5 {
+  font-size: 18px;
+  font-weight: bold
+}
+
+.productos .con_desf_inf {
+  overflow: visible;
+  margin-top: 30px;
+  padding: 10px 0 10px 0
+}
+
+.con_principal {
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: 300
+}
+
+.lista-aside {
+  margin: 0;
+  padding: 0
+}
+
+  .lista-aside li {
+    color: #358b8c;
+    list-style: none;
+    padding: 10px
+  }
+
+.pad10 {
+  padding: 10px
+}
+
+#columna-2 h3 {
+  margin: 0;
+  border-radius: 4px 4px 0 0
+}
+
+thead, .neg {
+  font-weight: bold
+}
+
+.azul {
+  color: #358b8c
+}
+
+.enlace {
+  color: #358b8c;
+  display: block
+}
+
+.pla_combo {
+  border: 1px solid #ccc;
+  padding: 4px 7px;
+  border-radius: 5px
+}
+
+.prod-serv {
+  padding-bottom: 0
+}
+
+  .prod-serv span {
+    color: #358b8c
+  }
+
+  .prod-serv p {
+    font-size: .85em
+  }
+
+.tit-fuentep {
+  font-size: 18px;
+  background: #fff;
+  color: #333;
+  padding-bottom: 10px;
+  padding-left: 2px;
+  margin-bottom: 0;
+  margin-top: 0;
+  border-bottom: 1px solid #337ab7;
+  border-radius: 0
+}
+
+ul.pla_lista_contenido {
+  list-style: none;
+  padding: 0
+}
+
+  ul.pla_lista_contenido > li {
+    width: 100%;
+    border-bottom: 1px solid #ddd
+  }
+
+    ul.pla_lista_contenido > li a {
+      display: block;
+      padding: 10px;
+      font-size: 18px;
+      color: #444
+    }
+
+      ul.pla_lista_contenido > li a:hover {
+        text-decoration: none;
+        background: #f7f7f7
+      }
+
+.hideCont {
+  display: none;
+  padding: 10px;
+  background: #f7f7f7;
+  text-align: justify
+}
+
+#dropd {
+  padding: 0
+}
+
+  #dropd > a {
+    padding: 8px
+  }
+
+  #dropd > ul {
+    padding: 0
+  }
+
+  #dropd .glyphicon-chevron-down, #dropd .inegi-nav-desp {
+    margin-right: 20px;
+    float: left
+  }
+
+  #dropd > ul > li > a {
+    margin-left: 0;
+    color: #333
+  }
+
+.pla_nuevo {
+  color: #dc143c;
+  border: 1px solid #dc143c;
+  padding: 2px;
+  margin-left: 12px
+}
+
+#dropd > ul, .escondido, #btnUp {
+  display: none
+}
+
+.pla_proyectos {
+  display: block;
+  padding: 20px;
+  background: #f2f2f2;
+  border: 1px solid #e7e7e7;
+  margin-top: 30px;
+  color: #3f51b5
+}
+
+  .pla_proyectos:after {
+    clear: both;
+    content: '';
+    display: block
+  }
+
+  .pla_proyectos:hover {
+    background: #e7e7e7;
+    border-color: #e2e2e2;
+    color: #111;
+    text-decoration: none
+  }
+
+  .pla_proyectos img {
+    margin-right: 10px;
+    text-align: left;
+    display: inline-block
+  }
+
+a {
+  color: #2279c0
+}
+
+#menu-hide {
+  display: none
+}
+
+#menuM {
+  width: 100%;
+  position: absolute
+}
+
+  #menuM.affix {
+    top: 63px;
+    width: 100%;
+    position: fixed
+  }
+
+.pla_ctr-inf {
+  border-bottom: 1px solid #ddd;
+  max-width: 740px;
+  margin: auto;
+  padding-bottom: 15px;
+  margin-bottom: 40px
+}
+
+  .pla_ctr-inf span {
+    display: block;
+    float: none;
+    margin-right: 0
+  }
+
+  .pla_ctr-inf p {
+    font-size: .9em;
+    color: #444
+  }
+
+  .pla_ctr-inf a {
+    display: block;
+    padding: 15px;
+    background: #e7e7e7;
+    color: #222;
+    margin-bottom: 5px;
+    text-align: center
+  }
+
+    .pla_ctr-inf a:hover {
+      color: #fff;
+      background: #2989d8;
+      text-decoration: none
+    }
+
+.pestCont {
+  padding: 0 20px
+}
+
+.genPest {
+  position: absolute;
+  height: 36px;
+  padding: 10px;
+  background: #fff;
+  z-index: 1;
+  display: none;
+  top: 3px
+}
+
+  .genPest span {
+    color: #e16c32
+  }
+
+.pesSig {
+  right: 0
+}
+
+.pesAnt {
+  left: 0
+}
+
+.padPest {
+  padding: 0 10px !important;
+  display: inline-block;
+  line-height: 26px;
+  height: 40px;
+  margin: 0;
+  text-align: center
+}
+
+  .padPest:hover {
+    background: #f0f0f0
+  }
+
+  .padPest.pactivo a:hover, .genConP a:focus {
+    text-decoration: none
+  }
+
+  .padPest a:hover {
+    color: #807f7f
+  }
+
+  .padPest.pactivo a {
+    cursor: default;
+    font-weight: bold;
+    color: #333
+  }
+
+  .padPest.pactivo:hover {
+    background: none
+  }
+
+.genConP {
+  padding-right: 8px;
+  display: inline-block;
+  position: relative;
+  white-space: nowrap;
+  overflow: hidden
+}
+
+#pestanaPes {
+  display: block;
+  overflow-y: hidden;
+  padding: 0;
+  position: relative;
+  overflow-x: hidden;
+  padding-top: 1px
+}
+
+  #pestanaPes::-webkit-scrollbar {
+    display: none
+  }
+
+.PestaSite {
+  position: relative;
+  overflow: hidden
+}
+
+.opconP {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 40px;
+  width: 40px;
+  background: -webkit-gradient(linear,left top,right top,color-stop(0,rgba(205,203,203,0)),color-stop(100%,rgba(221,221,221,.5)));
+  z-index: 2;
+  display: none
+}
+
+.bor_seppes {
+  position: absolute;
+  height: 33px;
+  border-right: 2px solid #ddd;
+  width: 1px;
+  top: 3px;
+  right: 0;
+  z-index: 2
+}
+
+.linTem-gen {
+  margin: 0;
+  border-color: #ddd;
+  top: 46px;
+  position: absolute;
+  width: 100%
+}
+
+.pesTema {
+  display: block;
+  padding: 5px
+}
+
+.fl_Pes {
+  position: absolute;
+  color: #e16c32;
+  padding: 10px;
+  background: #fff;
+  z-index: 2;
+  display: none
+}
+
+  .fl_Pes.pes_der {
+    right: 0
+  }
+
+  .fl_Pes.activePes {
+    display: block
+  }
+
+#pestanaPes.actPesfle {
+  margin-left: 20px
+}
+
+.biinegi {
+  margin-top: 0
+}
+
+#menubiinegi #dLabel, #menubiinegi #dLabel2 {
+  padding: 0;
+  margin-top: 3px !important;
+  background: #2279c0 !important;
+  font-size: 1.65em;
+  border: none
+}
+
+#dLabel span, #dLabel2 span {
+  color: #fff
+}
+
+.pes_izq {
+  left: 0
+}
+
+#compFuentes {
+  display: none
+}
+
+.imprimirCont {
+  font-size: 18px;
+  width: 4%;
+  display: inline-block;
+  top: 7px;
+  float: right;
+  position: relative
+}
+
+  .imprimirCont a {
+    text-decoration: none
+  }
+
+.tituImprimir {
+  width: 96%;
+  display: inline-block
+}
+
+.notasGe {
+  font-size: 8pt
+}
+
+.enc--Pres_int {
+  background: none;
+  padding: 0;
+  margin: 0
+}
+
+.Accordion-trigger_pres:focus, .Accordion-trigger_pres:hover {
+  background: hsl(216,94%,94%)
+}
+
+.Accordion-trigger_presDis {
+  width: 100%;
+  background: none;
+  border: none;
+  border-bottom: 1px solid #ddd;
+  padding: 10px 0
+}
+
+  .Accordion-trigger_presDis[aria-expanded="true"] .inegi-nav-desp {
+    transform: translateY(-6%) rotate(-180deg)
+  }
+
+.AccordeonPresentacion {
+  margin-bottom: 15px
+}
+
+@media(min-width:768px) {
+  .pla_ctr-inf span {
+    display: block;
+    float: left;
+    margin-right: 25px
+  }
+
+  #menuM {
+    display: none
+  }
+
+  h4, .titPresIne1 {
+    font-size: 2em;
+    border-radius: 4px
+  }
+
+  .jumbo h1 {
+    margin-bottom: 5px;
+    padding-bottom: 15px;
+    font-size: 2em
+  }
+
+  .lst_des ul > li {
+    width: auto;
+    max-width: 400px
+  }
+}
+
+.ad_banner {
+  background: url(/img/imgquienessomos.jpg) right;
+  height: 287px;
+  position: relative;
+  background-size: cover
+}
+
+.ad_enlances {
+  margin: auto;
+  display: block;
+  width: 290px;
+  height: 352px;
+  background-size: cover !important
+}
+
+.ad_cuadros {
+  text-align: center
+}
+
+.ad_pleca {
+  margin-top: 80px;
+  position: absolute;
+  background: rgba(139,167,187,.7);
+  color: #fff;
+  width: 100%
+}
+
+  .ad_pleca h3 {
+    background: none;
+    font-size: 1.8em;
+    padding: 0
+  }
+
+.ad_pleca_cont {
+  width: 500px;
+  margin: auto;
+  padding: 20px 0 20px 0
+}
+
+.ad_cuadros img {
+  width: 290px
+}
+
+.ad_enlaces {
+  width: 290px;
+  position: relative
+}
+
+.ad_desc {
+  top: 50%;
+  padding: 15px;
+  display: block;
+  margin: auto;
+  position: absolute;
+  background: rgba(255,255,255,.7);
+  max-width: 300px
+}
+
+.ad_minu {
+  color: #000;
+  font-weight: bold;
+  display: block;
+  text-align: center;
+  margin-bottom: 20px
+}
+
+.ad_lista {
+  width: 290px;
+  padding: 0;
+  margin: auto;
+  margin-top: 23px;
+  text-align: left;
+  font-weight: bold;
+  list-style: none
+}
+
+.ad_inte {
+  width: 20%;
+  text-align: center;
+  float: left
+}
+
+.ad_dir {
+  text-align: center;
+  font-weight: bold
+}
+
+.subtit-turista {
+  font-size: 21px;
+  color: #333;
+  padding-bottom: 10px;
+  padding-left: 2px;
+  margin-bottom: 0;
+  margin-top: 0
+}
+
+#dropd > ul > li > a {
+  margin: 0;
+  padding-left: 30px
+}
+
+#dropd > a {
+  padding: 8px
+}
+
+ul.pla_lista_contenido > li a {
+  font-size: 14px;
+  padding: 6px 0
+}
+
+.st_barra-nav {
+  margin-bottom: 0;
+  font-size: .86em;
+  min-height: 25px
+}
+
+#menuM h3 {
+  margin: 0
+}
+
+#menuM .con_desf_inf {
+  padding: 0
+}
+
+.lista-aside li {
+  border: none;
+  padding: 0;
+  color: #333
+}
+
+.activo {
+  font-weight: bold;
+  background: #e9e9e9
+}
+
+.lista-aside li a, .lista-aside li p {
+  display: block;
+  padding: 8px;
+  padding-left: 13px;
+  margin: 0
+}
+
+  .lista-aside li a:hover {
+    background: #fafafa
+  }
+
+  .lista-aside li a:hover, .lista-aside li a:focus, .lista-aside li a:active {
+    text-decoration: none
+  }
+
+.lista-aside #dropd > ul > li > a {
+  margin: 0;
+  padding-left: 13px
+}
+
+.nav > li > a:hover, .nav > li > a:focus, .bg-gris {
+  background-color: transparent;
+  border-color: transparent
+}
+
+.lista-aside #dropd > ul > li {
+  border-bottom: none
+}
+
+.glyphicon-chevron-down, #MenuLateral .inegi-nav-desp {
+  font-size: 14px
+}
+
+.lista-aside #dropd a {
+  padding-right: 28px
+}
+
+  .lista-aside #dropd a span {
+    position: absolute;
+    right: 0;
+    top: 8px
+  }
+
+.libTemaP, .libTemaP:hover, .lista-aside li.libTemaP a:hover {
+  background-color: #91e69b
+}
+
+.publi img {
+  width: 50px
+}
+
+.pla_lista_contenido .glyphicon-chevron-down {
+  margin-right: 10px;
+  float: left !important
+}
+
+.nopa ul {
+  padding-left: 0
+}
+
+.lst_des_archivo a {
+  height: auto !important
+}
+
+.publi > li:nth-child(odd) {
+  background: #f9f9f9
+}
+
+.bin {
+  float: right
+}
+
+.biinegi {
+  float: right;
+  padding: 8px;
+  margin: auto;
+  margin-top: -12px;
+  margin-bottom: -12px;
+  text-align: right;
+  padding-bottom: 11px;
+  display: block
+}
+
+.bi_1 {
+  width: 260px;
+  padding: 18px;
+  margin: 0;
+  border-radius: 0;
+  background: #f5f5f5;
+  margin-top: 0;
+  margin-left: -170px
+}
+
+.bi_2 {
+  padding-left: 10px;
+  padding-bottom: 4px
+}
+
+  .bi_2 li {
+    list-style: none;
+    padding: 6px 0 0 0
+  }
+
+.titlist {
+  margin-bottom: 7px;
+  font-size: 16px;
+  color: #007390;
+  font-weight: bold
+}
+
+.dropdown-menu div.divider {
+  margin: 0
+}
+
+#menubiinegi .dropdown.bin {
+  margin-left: 5px
+}
+
+.pla_lista_contenido .glyphicon-chevron-down, .pla_lista_contenido .glyphicon-chevron-up {
+  margin-right: 10px;
+  float: left !important
+}
+
+.pla_lista_contenido h5 {
+  font-size: 14px
+}
+
+#dropd .glyphicon-chevron-down, #dropd .inegi-nav-desp, #dropd .glyphicon-chevron-up, #dropd .inegi-nav-despa {
+  margin-right: 10px;
+  float: left !important;
+  margin-top: 3px
+}
+
+.lista-aside a {
+  color: #333
+}
+
+.st_barra-nav a {
+  color: #2279c0
+}
+
+.sto_enca .glyphicon {
+  color: #fff
+}
+
+#dropd a {
+  position: relative;
+  padding-left: 30px;
+  color: #333
+}
+
+.pla_nivel_1 {
+  padding-left: 30px !important
+}
+
+a.panel-heading {
+  display: block
+}
+
+  a.panel-heading .glyphicon {
+    float: right
+  }
+
+.lista-aside #dropd a {
+  padding-left: 13px
+}
+
+.fs_12 {
+  font-size: 12px
+}
+
+.fs_24 {
+  font-size: 24px
+}
+
+.fs_d9em {
+  font-size: .9em
+}
+
+.fs_1d2em {
+  font-size: 1.2em
+}
+
+#menuM .col-md-3 {
+  position: relative;
+  z-index: 2000
+}
+
+li.active > a {
+  font-weight: bold;
+  padding-bottom: 11px
+}
+
+ul.lista-temas li a {
+  text-decoration: none;
+  color: #333
+}
+
+  ul.lista-temas li a:hover {
+    color: #2279c0
+  }
+
+.pla_tit {
+  font-size: 14px;
+  font-weight: bold
+}
+
+button.expandir {
+  background: #eee;
+  border: none;
+  position: absolute;
+  left: 1px;
+  width: 99.75%;
+  right: 2px;
+  bottom: 1px
+}
+
+  button.expandir .glyphicon {
+    color: #888 !important
+  }
+
+.pad_no {
+  padding-bottom: 0
+}
+
+.pad0 {
+  padding: 0
+}
+
+#btn_hide {
+  display: block
+}
+
+  #btn_hide a {
+    display: block;
+    padding: 10px 14px;
+    font-size: 18px;
+    color: #fff
+  }
+
+  #btn_menu, #btn_hide a {
+    color: #fff;
+    text-decoration: none !important
+  }
+
+#btn_menu {
+  position: absolute;
+  right: 10px;
+  top: 14px
+}
+
+#presenta div:not(.panel-group,.panel-default,.panel-heading), div ul.lst_pro {
+  -webkit-transition: all 240ms ease-in-out;
+  -moz-transition: all 240ms ease-in-out;
+  -o-transition: all 240ms ease-in-out;
+  transition: all 240ms ease-in-out
+}
+
+.noup {
+  border: none;
+  box-shadow: none !important;
+  background: none !important
+}
+
+.pad15 {
+  padding: 15px
+}
+
+ul.lst_norm {
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+.lst_norm li a {
+  color: #000
+}
+
+.lst_pro * {
+  list-style: none
+}
+
+.lst_pro .lst_pro {
+  padding-left: 30px
+}
+
+.lst_pro {
+  padding: 0
+}
+
+  .lst_pro > li > a {
+    display: block;
+    padding: 7px
+  }
+
+    .lst_pro > li > a:hover {
+      text-decoration: none
+    }
+
+  .lst_pro a {
+    color: #000
+  }
+
+    .lst_pro a:focus {
+      text-decoration: none
+    }
+
+.desp > ul {
+  display: none
+}
+
+.lst_pro .inegi-nav-desp, .lst_pro .inegi-nav-despa {
+  font-size: 10px;
+  margin: 0 2px
+}
+
+.lst_des ul {
+  margin: 0;
+  padding: 0
+}
+
+  .lst_des ul::after {
+    display: block;
+    content: '';
+    clear: both;
+    height: 0
+  }
+
+.lst_des_archivo {
+  float: right !important
+}
+
+  .lst_des_archivo a span {
+    display: block;
+    float: right;
+    min-width: 85px
+  }
+
+  .lst_des_archivo span {
+    line-height: normal !important;
+    margin-top: 4px;
+    padding-left: 20px
+  }
+
+.no-child {
+  position: static
+}
+
+.lst_des > li, .lst_des ul > li {
+  padding: 0;
+  border-left: none !important
+}
+
+.lst_des > ul {
+  padding: 7px 0 7px 7px
+}
+
+.filtros {
+  display: block;
+  padding: 3px;
+  float: left;
+  border: 1px solid #ccc;
+  background: #eee;
+  margin-right: 10px;
+  border-radius: 5px;
+  margin-bottom: 8px
+}
+
+  .filtros:hover {
+    background: #f2dede
+  }
+
+    .filtros:hover * {
+      color: #dc143c;
+      text-decoration: none
+    }
+
+.add {
+  display: block;
+  float: right;
+  padding: 3px
+}
+
+.indp {
+  margin-top: 20px
+}
+
+  .indp a {
+    padding: 3px 6px;
+    color: #2279c0
+  }
+
+    .indp a:hover {
+      background: #ccc;
+      text-decoration: none
+    }
+
+.filtros span {
+  font-size: .8em;
+  color: #333;
+  border-left: 1px solid #ccc;
+  padding-left: 7px
+}
+
+.filtros p {
+  max-width: 100px;
+  float: left;
+  margin-bottom: 0
+}
+
+a.closes .inegi-cerrar {
+  font-size: .8em;
+  color: #333
+}
+
+.consultados {
+  font-size: .9em;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #ddd;
+  background: #e9e9e9;
+  padding: 6px;
+  margin-bottom: 10px
+}
+
+  .consultados b {
+    color: #239123
+  }
+
+.lst_filtros {
+  padding: 4px;
+  margin-bottom: 0
+}
+
+  .lst_filtros .lst_filtros {
+    padding-left: 18px;
+    padding-right: 0;
+    padding-bottom: 0
+  }
+
+  .lst_filtros li {
+    list-style: none;
+    overflow: hidden;
+    position: relative;
+    margin-bottom: 4px
+  }
+
+    .lst_filtros li .lst_filtros li {
+      margin-bottom: 0
+    }
+
+.desp a, .no-ch, .no-ch:hover {
+  text-decoration: none !important;
+  color: #333
+}
+
+.btn_add {
+  display: block;
+  width: 100%;
+  padding: 6px 4px 2px 30px
+}
+
+.no-ch {
+  padding: 6px 4px 2px 30px;
+  margin-left: 0;
+  width: auto
+}
+
+.btn_add p {
+  margin-right: 30px;
+  margin-bottom: 1px
+}
+
+.btn_add:hover {
+  background: #e1e1e1
+}
+
+.btn_add .inegi-add {
+  display: none;
+  position: absolute;
+  right: 12px;
+  top: 8px
+}
+
+.btn_add:hover .inegi-add {
+  display: block;
+  color: #5cb85c
+}
+
+.adder {
+  background: #dfffbf
+}
+
+  .adder:hover {
+    background: #f2dede
+  }
+
+  .adder .inegi-paloma {
+    display: block;
+    color: #5cb85c
+  }
+
+  .adder:hover .inegi-paloma:before {
+    margin-right: 5px;
+    color: #dc143c;
+    content: "î˜†"
+  }
+
+.desp a.btn_desp, .btn_add .inegi-dot {
+  position: absolute;
+  color: #666;
+  display: block;
+  padding: 5px 9px 4px;
+  background: #fff
+}
+
+.btn_add .inegi-dot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding: 7px 7px 8px
+}
+
+a.btn_desp:hover {
+  background: #ddd
+}
+
+.panel-comp .panel-title > a {
+  display: block;
+  padding: 20px
+}
+
+.panel-comp .panel-title, .panel-comp .panel-heading {
+  padding: 0
+}
+
+#columna-2 > .row {
+  padding: 0 !important
+}
+
+.columna-2.row {
+  padding-right: 5px !important
+}
+
+#lisGenINEGI .liscerrar {
+  display: none
+}
+
+#lisGenINEGI.table .inegi-nav-desp, #lisGenINEGI.table .inegi-nav-despa {
+  font-size: 10px;
+  margin: 0 2px
+}
+
+#lisGenINEGI tr[data-padre] {
+  cursor: pointer
+}
+
+#lisGenINEGI .forLista1 {
+  vertical-align: middle !important;
+  width: 82%;
+  border: none
+}
+
+#lisGenINEGI .forLista2 {
+  vertical-align: middle !important;
+  border: none
+}
+
+#lisGenINEGI .datPeso {
+  display: inline-block;
+  font-size: 12px;
+  margin-left: 5px
+}
+
+#lisGenINEGI.table > tbody > tr > td {
+  border-top: none !important
+}
+
+#lisGenINEGI .liPosIco {
+  float: left;
+  position: relative;
+  width: 15px
+}
+
+#lisGenINEGI .liPosTex {
+  float: left;
+  position: relative;
+  width: 94%
+}
+
+#lisGenINEGI {
+  border: none !important
+}
+
+#herSite {
+  padding-top: 5px;
+  min-height: 39px
+}
+
+  #herSite .menSerRel span.caret {
+    color: #333 !important
+  }
+
+.datPeso, .liPosTex a {
+  color: #333;
+  text-decoration: none !important
+}
+
+#herSite .inegi-servicios {
+  font-size: 1.6em
+}
+
+#herSite .menSerRel button {
+  padding: 3px 6px
+}
+
+  #herSite .menSerRel button span.caret {
+    margin-top: -5px
+  }
+
+#herSite button.dropdown-toggle.btn-default, #herSite button.dropdown-toggle.btn-default:hover, #herSite button.dropdown-toggle.btn-default:active, #herSite button.dropdown-toggle.btn-default:focus {
+  border-color: transparent;
+  color: #337ab7 !important
+}
+
+@media(max-width:992px) {
+  #lisGenINEGI .liPosIco {
+    float: left;
+    position: relative
+  }
+
+  #lisGenINEGI .liPosTex {
+    float: left;
+    position: relative
+  }
+}
+
+@media(max-width:768px) {
+  #btn_hide, #btnUp {
+    display: block
+  }
+
+  #menu-hide, .st_barra-nav {
+    display: none
+  }
+
+  #btnUp {
+    position: fixed;
+    left: auto;
+    right: 20px;
+    top: auto;
+    bottom: 20px;
+    overflow: hidden;
+    color: #fff;
+    text-align: center;
+    background-color: rgba(49,79,96,.84);
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all .3s linear;
+    z-index: 999999;
+    opacity: 1
+  }
+
+  .imprimirCont {
+    width: 7%
+  }
+
+  .tituImprimir {
+    width: 93%
+  }
+}
+
+@media(min-width:992px) {
+  #columna-2 > .row {
+    padding: 0 15px !important;
+    padding-right: 5px !important
+  }
+
+  #menu-hide {
+    display: block
+  }
+
+  #menuM {
+    display: block
+  }
+
+  .lst_des ul > li {
+    max-width: 530px
+  }
+
+  #btn_hide {
+    display: none;
+    position: fixed;
+    z-index: 999999;
+    padding: 0 0 0 39px
+  }
+
+    #btn_hide a {
+      display: block;
+      float: right;
+      padding: 10px 14px;
+      font-size: 18px;
+      color: #fff;
+      border-radius: 9px 0 0 9px
+    }
+}
+
+@media(min-width:992px) and (max-width:1199px) {
+  #btn_hide {
+    padding: 0 0 0 22px
+  }
+}
+
+@media(min-width:1170px) {
+  .lst_des ul > li {
+    margin: 0;
+    float: left;
+    list-style: none;
+    max-width: 590px
+  }
+}
+
+@media(max-width:1199px) {
+  #menubiinegi {
+    min-height: 35px
+  }
+}
+
+@media(max-width:767px) {
+  .opconP {
+    display: block
+  }
+
+  .fl_Pes, .fl_Pes.activePes, .bor_seppes {
+    display: none
+  }
+
+  #pestanaPes {
+    overflow-x: scroll;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    -webkit-overflow-scrolling: touch
+  }
+
+    #pestanaPes.actPesfle {
+      margin-left: 0
+    }
+
+  .linTem-gen {
+    top: 86px
+  }
+
+  .PestaSite {
+    margin-top: 10px
+  }
+
+  .genConP {
+    transform: translateX(0) !important;
+    -webkit-transform: translateX(0) !important;
+    -ms-transform: translateX(0) !important;
+    -moz-transform: translateX(0) !important;
+    -o-transform: translateX(0) !important
+  }
+
+  #pestana {
+    border-top: #e6e6e6 1px solid
+  }
+
+  #menubiinegi {
+    padding-right: 10px;
+    margin-bottom: 4px
+  }
+}
+
+.ddM a {
+  font-size: 1em
+}
+
+.ddM .dropdown-menu a {
+  font-size: .9em;
+  white-space: normal !important
+}
+
+.ddM a:hover, .ddM a:active, .ddM a:focus, .aLink {
+  text-decoration: none !important;
+  color: #333
+}
+
+.ddM .dropdown-menu {
+  min-width: 410px;
+  margin-top: -1px
+}
+
+.actives {
+  background-color: #e6e6e6;
+  border-color: #adadad
+}
+
+.titHerrG {
+  background: #f0f0f0 !important;
+  margin: 0;
+  padding: 10px;
+  font-size: 14px;
+  padding-left: 5px
+}
+
+.tarHerr {
+  border-radius: 0;
+  box-shadow: none
+}
+
+.firstHerr {
+  padding: 0;
+  margin-top: 5px;
+  margin-left: 5px
+}
+
+  .firstHerr li {
+    list-style: none
+  }
+
+.nav-derHerr {
+  font-size: .6em;
+  padding: 4px 7px 4px 4px;
+  float: left;
+  color: #2279c0
+}
+
+.bi_2Her {
+  padding-left: 15px;
+  padding-bottom: 4px
+}
+
+.HerrCol {
+  color: #2279c0
+}
+
+.demso_men {
+  background: #a33100
+}
+
+.demso_lis a:hover, .demso_t, .demso_lis a:active, .demso_lis a:focus, .demso_lis a:visited, .demso_pre, .demso_con .glyphicon, .demso_con .inegi-fldesp, .demso_con a:hover {
+  color: #a33100
+}
+
+.padPest.pactivo.demso_navt, .demso_border {
+  border-bottom: 3px solid #a33100
+}
+
+.demso_navt > li.active > a, .demso_navt > li.active > a:focus, .demso_navt > li.active > a:hover {
+  border: 1px solid #a33100;
+  border-bottom: 1px solid #fff
+}
+
+.eco_men {
+  background: #006161
+}
+
+.eco_lis a:hover, .eco_t, .eco_lis a:active, .eco_lis a:focus, .eco_lis a:visited, .eco_pre, .eco_con .glyphicon, .eco_con .inegi-fldesp, .eco_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.eco_navt, .eco_border {
+  border-bottom: 3px solid #006161
+}
+
+.eco_navt > li.active > a, .eco_navt > li.active > a:focus, .eco_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.geomed_men {
+  background: #65a431
+}
+
+.geomed_lis a:hover, .geomed_t, .geomed_lis a:active, .geomed_lis a:focus, .geomed_lis a:visited, .geomed_pre, .geomed_con .glyphicon, .geomed_con .inegi-fldesp, .geomed_con a:hover {
+  color: #65a431
+}
+
+.padPest.pactivo.geomed_navt, .geomed_border {
+  border-bottom: 3px solid #65a431
+}
+
+.geomed_navt > li.active > a, .geomed_navt > li.active > a:focus, .geomed_navt > li.active > a:hover {
+  border: 1px solid #65a431;
+  border-bottom: 1px solid #fff
+}
+
+.gobspj_men {
+  background: #620042
+}
+
+.gobspj_lis a:hover, .gobspj_t, .gobspj_lis a:active, .gobspj_lis a:focus, .gobspj_lis a:visited, .gobspj_pre, .gobspj_con .glyphicon, .gobspj_con .inegi-fldesp, .gobspj_con a:hover {
+  color: #620042
+}
+
+.padPest.pactivo.gobspj_navt, .gobspj_border {
+  border-bottom: 3px solid #620042
+}
+
+.gobspj_navt > li.active > a, .gobspj_navt > li.active > a:focus, .gobspj_navt > li.active > a:hover {
+  border: 1px solid #620042;
+  border-bottom: 1px solid #fff
+}
+
+.pob_men {
+  background: #a33100
+}
+
+.pob_lis a:hover, .pob_t, .pob_lis a:active, .pob_lis a:focus, .pob_lis a:visited, .pob_pre, .pob_con .glyphicon, .pob_con .inegi-fldesp, .pob_con a:hover {
+  color: #a33100
+}
+
+.padPest.pactivo.pob_navt, .pob_border {
+  border-bottom: 3px solid #a33100
+}
+
+.pob_navt > li.active > a, .pob_navt > li.active > a:focus, .pob_navt > li.active > a:hover {
+  border: 1px solid #a33100;
+  border-bottom: 1px solid #fff
+}
+
+.agro_men {
+  background: #060
+}
+
+.agro_lis a:hover, .agro_t, .agro_lis a:active, .agro_lis a:focus, .agro_lis a:visited, .agro_pre, .agro_con .glyphicon, .agro_con .inegi-fldesp, .agro_con a:hover {
+  color: #060
+}
+
+.padPest.pactivo.agro_navt, .agro_border {
+  border-bottom: 3px solid #060
+}
+
+.agro_navt > li.active > a, .agro_navt > li.active > a:focus, .agro_navt > li.active > a:hover {
+  border: 1px solid #060;
+  border-bottom: 1px solid #fff
+}
+
+.inpc_men {
+  background: #05a1a0
+}
+
+.inpc_lis a:hover, .inpc_t, .inpc_lis a:active, .inpc_lis a:focus, .inpc_lis a:visited, .inpc_pre, .inpc_con .glyphicon, .inpc_con .inegi-fldesp, .inpc_con a:hover {
+  color: #05a1a0
+}
+
+.padPest.pactivo.inpc_navt, .inpc_border {
+  border-bottom: 3px solid #05a1a0
+}
+
+.inpc_navt > li.active > a, .inpc_navt > li.active > a:focus, .inpc_navt > li.active > a:hover {
+  border: 1px solid #05a1a0;
+  border-bottom: 1px solid #fff
+}
+
+.ppc_men {
+  background: #e10042
+}
+
+.ppc_lis a:hover, .ppc_t, .ppc_lis a:active, .ppc_lis a:focus, .ppc_lis a:visited, .ppc_pre, .ppc_con .glyphicon, .ppc_con .inegi-fldesp, .ppc_con a:hover {
+  color: #e10042
+}
+
+.padPest.pactivo.ppc_navt, .ppc_border {
+  border-bottom: 3px solid #e10042
+}
+
+.ppc_navt > li.active > a, .ppc_navt > li.active > a:focus, .ppc_navt > li.active > a:hover {
+  border: 1px solid #e10042;
+  border-bottom: 1px solid #fff
+}
+
+.pci_men {
+  background: #620042
+}
+
+.pci_lis a:hover, .pci_t, .pci_lis a:active, .pci_lis a:focus, .pci_lis a:visited, .pci_pre, .pci_con .glyphicon, .pci_con .inegi-fldesp, .pci_con a:hover {
+  color: #620042
+}
+
+.padPest.pactivo.pci_navt, .pci_border {
+  border-bottom: 3px solid #620042
+}
+
+.pci_navt > li.active > a, .pci_navt > li.active > a:focus, .pci_navt > li.active > a:hover {
+  border: 1px solid #620042;
+  border-bottom: 1px solid #fff
+}
+
+.gob_men {
+  background: #620042
+}
+
+.gob_lis a:hover, .gob_t, .gob_lis a:active, .gob_lis a:focus, .gob_lis a:visited, .gob_pre, .gob_con .glyphicon, .gob_con .inegi-fldesp, .gob_con a:hover {
+  color: #620042
+}
+
+.padPest.pactivo.gob_navt, .gob_border {
+  border-bottom: 3px solid #620042
+}
+
+.gob_navt > li.active > a, .gob_navt > li.active > a:focus, .gob_navt > li.active > a:hover {
+  border: 1px solid #620042;
+  border-bottom: 1px solid #fff
+}
+
+.cn_men {
+  background: #006161
+}
+
+.cn_lis a:hover, .cn_t, .cn_lis a:active, .cn_lis a:focus, .cn_lis a:visited, .cn_pre, .cn_con .glyphicon, .cn_con .inegi-fldesp .cn_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.cn_navt, .cn_border {
+  border-bottom: 3px solid #006161
+}
+
+.cn_navt > li.active > a, .cn_navt > li.active > a:focus, .cn_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.regadm_men {
+  background: #060
+}
+
+.regadm_lis a:hover, .regadm_t, .regadm_lis a:active, .regadm_lis a:focus, .regadm_lis a:visited, .regadm_pre, .regadm_con .glyphicon, .regadm_con .inegi-fldesp, .regadm_con a:hover {
+  color: #060
+}
+
+.padPest.pactivo.regadm_navt, .regadm_border {
+  border-bottom: 3px solid #060
+}
+
+.regadm_navt > li.active > a, .regadm_navt > li.active > a:focus, .regadm_navt > li.active > a:hover {
+  border: 1px solid #060;
+  border-bottom: 1px solid #fff
+}
+
+.enotra_men {
+  background: #08507c
+}
+
+.enotra_lis a:hover, .enotra_t, .enotra_lis a:active, .enotra_lis a:focus, .enotra_lis a:visited, .enotra_pre, .enotra_con .glyphicon, .enotra_con .inegi-fldesp, .enotra_con a:hover {
+  color: #08507c
+}
+
+.padPest.pactivo.enotra_navt, .enotra_border {
+  border-bottom: 3px solid #08507c
+}
+
+.enotra_navt > li.active > a, .enotra_navt > li.active > a:focus, .enotra_navt > li.active > a:hover {
+  border: 1px solid #08507c;
+  border-bottom: 1px solid #fff
+}
+
+.enagro_men {
+  background: #8a4700
+}
+
+.enagro_lis a:hover, .enagro_t, .enagro_lis a:active, .enagro_lis a:focus, .enagro_lis a:visited, .enagro_pre, .enagro_con .glyphicon, .enagro_con .inegi-fldesp, .enagro_con a:hover {
+  color: #8a4700
+}
+
+.padPest.pactivo.enagro_navt, .enagro_border {
+  border-bottom: 3px solid #8a4700
+}
+
+.enagro_navt > li.active > a, .enagro_navt > li.active > a:focus, .enagro_navt > li.active > a:hover {
+  border: 1px solid #8a4700;
+  border-bottom: 1px solid #fff
+}
+
+.enest_men {
+  background: #b30000
+}
+
+.enest_lis a:hover, .enest_t, .enest_lis a:active, .enest_lis a:focus, .enest_lis a:visited, .enest_pre, .enest_con .glyphicon, .enest_con .inegi-fldesp, .enest_con a:hover {
+  color: #b30000
+}
+
+.padPest.pactivo.enest_navt, .enest_border {
+  border-bottom: 3px solid #b30000
+}
+
+.enest_navt > li.active > a, .enest_navt > li.active > a:focus, .enest_navt > li.active > a:hover {
+  border: 1px solid #b30000;
+  border-bottom: 1px solid #fff
+}
+
+.ce_men {
+  background: #006161
+}
+
+.ce_lis a:hover, .ce_t, .ce_lis a:active, .ce_lis a:focus, .ce_lis a:visited, .ce_pre, .ce_con .glyphicon, .ce_con .inegi-fldesp, .ce_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.ce_navt, .ce_border {
+  border-bottom: 3px solid #006161
+}
+
+.ce_navt > li.active > a, .ce_navt > li.active > a:focus, .ce_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.enhog_men {
+  background: #a90073
+}
+
+.enhog_lis a:hover, .enhog_t, .enhog_lis a:active, .enhog_lis a:focus, .enhog_lis a:visited, .enhog_pre, .enhog_con .glyphicon, .enhog_con .inegi-fldesp, .enhog_con a:hover {
+  color: #a90073
+}
+
+.padPest.pactivo.enhog_navt, .enhog_border {
+  border-bottom: 3px solid #a90073
+}
+
+.enhog_navt > li.active > a, .enhog_navt > li.active > a:focus, .enhog_navt > li.active > a:hover {
+  border: 1px solid #a90073;
+  border-bottom: 1px solid #fff
+}
+
+.cts_men {
+  background: #922b18
+}
+
+.cts_lis a:hover, .cts_t, .cts_lis a:active, .cts_lis a:focus, .cts_lis a:visited, .cts_pre, .cts_con .glyphicon, .cts_con .inegi-fldesp, .cts_con a:hover {
+  color: #922b18
+}
+
+.padPest.pactivo.cts_navt, .cts_border {
+  border-bottom: 3px solid #922b18
+}
+
+.cts_navt > li.active > a, .cts_navt > li.active > a:focus, .cts_navt > li.active > a:hover {
+  border: 1px solid #922b18;
+  border-bottom: 1px solid #fff
+}
+
+.imgt_men {
+  background: #ae191b
+}
+
+.imgt_lis a:hover, .imgt_t, .imgt_lis a:active, .imgt_lis a:focus, .imgt_lis a:visited, .imgt_pre, .imgt_con .glyphicon, .imgt_con .inegi-fldesp, .imgt_con a:hover {
+  color: #ae191b
+}
+
+.padPest.pactivo.imgt_navt, .imgt_border {
+  border-bottom: 3px solid #ae191b
+}
+
+.imgt_navt > li.active > a, .imgt_navt > li.active > a:focus, .imgt_navt > li.active > a:hover {
+  border: 1px solid #ae191b;
+  border-bottom: 1px solid #fff
+}
+
+.clm_men {
+  background: #0040f0
+}
+
+.clm_lis a:hover, .clm_t, .clm_lis a:active, .clm_lis a:focus, .clm_lis a:visited, .clm_pre, .clm_con .glyphicon, .clm_con .inegi-fldesp, .clm_con a:hover {
+  color: #0040f0
+}
+
+.padPest.pactivo.clm_navt, .clm_border {
+  border-bottom: 3px solid #0040f0
+}
+
+.clm_navt > li.active > a, .clm_navt > li.active > a:focus, .clm_navt > li.active > a:hover {
+  border: 1px solid #0040f0;
+  border-bottom: 1px solid #fff
+}
+
+.mgeo_men {
+  background: #106532
+}
+
+.mgeo_lis a:hover, .mgeo_t, .mgeo_lis a:active, .mgeo_lis a:focus, .mgeo_lis a:visited, .mgeo_pre, .mgeo_con .glyphicon, .mgeo_con .inegi-fldesp, .mgeo_con a:hover {
+  color: #106532
+}
+
+.padPest.pactivo.mgeo_navt, .mgeo_border {
+  border-bottom: 3px solid #106532
+}
+
+.mgeo_navt > li.active > a, .mgeo_navt > li.active > a:focus, .mgeo_navt > li.active > a:hover {
+  border: 1px solid #106532;
+  border-bottom: 1px solid #fff
+}
+
+.edf_men {
+  background: #525c24
+}
+
+.edf_lis a:hover, .edf_t, .edf_lis a:active, .edf_lis a:focus, .edf_lis a:visited, .edf_pre, .edf_con .glyphicon, .edf_con .inegi-fldesp, .edf_con a:hover {
+  color: #525c24
+}
+
+.padPest.pactivo.edf_navt, .edf_border {
+  border-bottom: 3px solid #525c24
+}
+
+.edf_navt > li.active > a, .edf_navt > li.active > a:focus, .edf_navt > li.active > a:hover {
+  border: 1px solid #525c24;
+  border-bottom: 1px solid #fff
+}
+
+.rlv_men {
+  background: #b30000
+}
+
+.rlv_lis a:hover, .rlv_t, .rlv_lis a:active, .rlv_lis a:focus, .rlv_lis a:visited, .rlv_pre, .rlv_con .glyphicon, .rlv_con .inegi-fldesp, .rlv_con a:hover {
+  color: #b30000
+}
+
+.padPest.pactivo.rlv_navt, .rlv_border {
+  border-bottom: 3px solid #b30000
+}
+
+.rlv_navt > li.active > a, .rlv_navt > li.active > a:focus, .rlv_navt > li.active > a:hover {
+  border: 1px solid #b30000;
+  border-bottom: 1px solid #fff
+}
+
+.fsg_men {
+  background: #940000
+}
+
+.fsg_lis a:hover, .fsg_t, .fsg_lis a:active, .fsg_lis a:focus, .fsg_lis a:visited, .fsg_pre, .fsg_con .glyphicon, .fsg_con .inegi-fldesp, .fsg_con a:hover {
+  color: #940000
+}
+
+.padPest.pactivo.fsg_navt, .fsg_border {
+  border-bottom: 3px solid #940000
+}
+
+.fsg_navt > li.active > a, .fsg_navt > li.active > a:focus, .fsg_navt > li.active > a:hover {
+  border: 1px solid #940000;
+  border-bottom: 1px solid #fff
+}
+
+.tns_men {
+  background: #08507c
+}
+
+.tns_lis a:hover, .tns_t, .tns_lis a:active, .tns_lis a:focus, .tns_lis a:visited, .tns_pre, .tns_con .glyphicon, .tns_con .inegi-fldesp, .tns_con a:hover {
+  color: #08507c
+}
+
+.padPest.pactivo.tns_navt, .tns_border {
+  border-bottom: 3px solid #08507c
+}
+
+.tns_navt > li.active > a, .tns_navt > li.active > a:focus, .tns_navt > li.active > a:hover {
+  border: 1px solid #08507c;
+  border-bottom: 1px solid #fff
+}
+
+.gds_men {
+  background: #106532
+}
+
+.gds_lis a:hover, .gds_t, .gds_lis a:active, .gds_lis a:focus, .gds_lis a:visited, .gds_pre, .gds_con .glyphicon, .gds_con .inegi-fldesp, .gds_con a:hover {
+  color: #106532
+}
+
+.padPest.pactivo.gds_navt, .gds_border {
+  border-bottom: 3px solid #106532
+}
+
+.gds_navt > li.active > a, .gds_navt > li.active > a:focus, .gds_navt > li.active > a:hover {
+  border: 1px solid #106532;
+  border-bottom: 1px solid #fff
+}
+
+.tpg_men {
+  background: #6f2600
+}
+
+.tpg_lis a:hover, .tpg_t, .tpg_lis a:active, .tpg_lis a:focus, .tpg_lis a:visited, .tpg_pre, .tpg_con .glyphicon, .tpg_con .inegi-fldesp, .tpg_con a:hover {
+  color: #6f2600
+}
+
+.padPest.pactivo.tpg_navt, .tpg_border {
+  border-bottom: 3px solid #6f2600
+}
+
+.tpg_navt > li.active > a, .tpg_navt > li.active > a:focus, .tpg_navt > li.active > a:hover {
+  border: 1px solid #6f2600;
+  border-bottom: 1px solid #fff
+}
+
+.glg_men {
+  background: #620024
+}
+
+.glg_lis a:hover, .glg_t, .glg_lis a:active, .glg_lis a:focus, .glg_lis a:visited, .glg_pre, .glg_con .glyphicon, .glg_con .inegi-fldesp, .glg_con a:hover {
+  color: #620024
+}
+
+.padPest.pactivo.glg_navt, .glg_border {
+  border-bottom: 3px solid #620024
+}
+
+.glg_navt > li.active > a, .glg_navt > li.active > a:focus, .glg_navt > li.active > a:hover {
+  border: 1px solid #620024;
+  border-bottom: 1px solid #fff
+}
+
+.usv_men {
+  background: #12633c
+}
+
+.usv_lis a:hover, .usv_t, .usv_lis a:active, .usv_lis a:focus, .usv_lis a:visited, .usv_pre, .usv_con .glyphicon, .usv_con .inegi-fldesp, .usv_con a:hover {
+  color: #12633c
+}
+
+.padPest.pactivo.usv_navt, .usv_border {
+  border-bottom: 3px solid #12633c
+}
+
+.usv_navt > li.active > a, .usv_navt > li.active > a:focus, .usv_navt > li.active > a:hover {
+  border: 1px solid #12633c;
+  border-bottom: 1px solid #fff
+}
+
+.hdr_men {
+  background: #08507c
+}
+
+.hdr_lis a:hover, .hdr_t, .hdr_lis a:active, .hdr_lis a:focus, .hdr_lis a:visited, .hdr_pre, .hdr_con .glyphicon, .hdr_con .inegi-fldesp, .hdr_con a:hover {
+  color: #08507c
+}
+
+.padPest.pactivo.hdr_navt, .hdr_border {
+  border-bottom: 3px solid #08507c
+}
+
+.hdr_navt > li.active > a, .hdr_navt > li.active > a:focus, .hdr_navt > li.active > a:hover {
+  border: 1px solid #08507c;
+  border-bottom: 1px solid #fff
+}
+
+.ups_men {
+  background: #8a4700
+}
+
+.ups_lis a:hover, .ups_t, .ups_lis a:active, .ups_lis a:focus, .ups_lis a:visited, .ups_pre, .ups_con .glyphicon, .ups_con .inegi-fldesp, .ups_con a:hover {
+  color: #8a4700
+}
+
+.padPest.pactivo.ups_navt, .ups_border {
+  border-bottom: 3px solid #8a4700
+}
+
+.ups_navt > li.active > a, .ups_navt > li.active > a:focus, .ups_navt > li.active > a:hover {
+  border: 1px solid #8a4700;
+  border-bottom: 1px solid #fff
+}
+
+.hpt_men {
+  background: #4249b7
+}
+
+.hpt_lis a:hover, .hpt_t, .hpt_lis a:active, .hpt_lis a:focus, .hpt_lis a:visited, .hpt_pre, .hpt_con .glyphicon, .hpt_con .inegi-fldesp, .hpt_con a:hover {
+  color: #4249b7
+}
+
+.padPest.pactivo.hpt_navt, .hpt_border {
+  border-bottom: 3px solid #4249b7
+}
+
+.hpt_navt > li.active > a, .hpt_navt > li.active > a:focus, .hpt_navt > li.active > a:hover {
+  border: 1px solid #4249b7;
+  border-bottom: 1px solid #fff
+}
+
+.magro_men {
+  background: #65a431
+}
+
+.magro_lis a:hover, .magro_t, .magro_lis a:active, .magro_lis a:focus, .magro_lis a:visited, .magro_pre, .magro_con .glyphicon, .magro_con .inegi-fldesp, .magro_con a:hover {
+  color: #65a431
+}
+
+.padPest.pactivo.magro_navt, .magro_border {
+  border-bottom: 3px solid #65a431
+}
+
+.magro_navt > li.active > a, .magro_navt > li.active > a:focus, .magro_navt > li.active > a:hover {
+  border: 1px solid #65a431;
+  border-bottom: 1px solid #fff
+}
+
+.ag_men {
+  background: #05a1a0
+}
+
+.ag_lis a:hover, .ag_t, .ag_lis a:active, .ag_lis a:focus, .ag_lis a:visited, .ag_pre, .ag_con .glyphicon, .ag_con .inegi-fldesp, .ag_con a:hover {
+  color: #05a1a0
+}
+
+.padPest.pactivo.ag_navt, .ag_border {
+  border-bottom: 3px solid #05a1a0
+}
+
+.ag_navt > li.active > a, .ag_navt > li.active > a:focus, .ag_navt > li.active > a:hover {
+  border: 1px solid #05a1a0;
+  border-bottom: 1px solid #fff
+}
+
+.mapas_men, .atm_men {
+  background: #005c99
+}
+
+.atm_lis a:hover, .atm_t, .atm_lis a:active, .atm_lis a:focus, .atm_lis a:visited, .atm_pre, .atm_con .glyphicon, .atm_con .inegi-fldesp, .atm_con a:hover {
+    color: #79142A
+}
+
+.padPest.pactivo.atm_navt, .atm_border {
+  border-bottom: 3px solid #005c99
+}
+
+.atm_navt > li.active > a, .atm_navt > li.active > a:focus, .atm_navt > li.active > a:hover {
+  border: 1px solid #005c99;
+  border-bottom: 1px solid #fff
+}
+
+.bio_men {
+  background: #066e7f
+}
+
+.bio_lis a:hover, .bio_t, .bio_lis a:active, .bio_lis a:focus, .bio_lis a:visited, .bio_pre, .bio_con .glyphicon, .bio_con .inegi-fldesp, .bio_con a:hover {
+  color: #066e7f
+}
+
+.padPest.pactivo.bio_navt, .bio_border {
+  border-bottom: 3px solid #066e7f
+}
+
+.bio_navt > li.active > a, .bio_navt > li.active > a:focus, .bio_navt > li.active > a:hover {
+  border: 1px solid #066e7f;
+  border-bottom: 1px solid #fff
+}
+
+.enmi_men {
+  background: #922b18
+}
+
+.enmi_lis a:hover, .enmi_t, .enmi_lis a:active, .enmi_lis a:focus, .enmi_lis a:visited, .enmi_pre, .enmi_con .glyphicon, .enmi_con .inegi-fldesp, .enmi_con a:hover {
+  color: #922b18
+}
+
+.padPest.pactivo.enmi_navt, .enmi_border {
+  border-bottom: 3px solid #922b18
+}
+
+.enmi_navt > li.active > a, .enmi_navt > li.active > a:focus, .enmi_navt > li.active > a:hover {
+  border: 1px solid #922b18;
+  border-bottom: 1px solid #fff
+}
+
+.for_men {
+  background: #397203
+}
+
+.for_lis a:hover, .for_t, .for_lis a:active, .for_lis a:focus, .for_lis a:visited, .for_pre, .for_con .glyphicon, .for_con .inegi-fldesp, .for_con a:hover {
+  color: #397203
+}
+
+.padPest.pactivo.for_navt, .for_border {
+  border-bottom: 3px solid #397203
+}
+
+.for_navt > li.active > a, .for_navt > li.active > a:focus, .for_navt > li.active > a:hover {
+  border: 1px solid #397203;
+  border-bottom: 1px solid #fff
+}
+
+.mhog_men {
+  background: #a90073
+}
+
+.mhog_lis a:hover, .mhog_t, .mhog_lis a:active, .mhog_lis a:focus, .mhog_lis a:visited, .mhog_pre, .mhog_con .glyphicon, .mhog_con .inegi-fldesp, .mhog_con a:hover {
+  color: #a90073
+}
+
+.padPest.pactivo.mhog_navt, .mhog_border {
+  border-bottom: 3px solid #a90073
+}
+
+.mhog_navt > li.active > a, .mhog_navt > li.active > a:focus, .mhog_navt > li.active > a:hover {
+  border: 1px solid #a90073;
+  border-bottom: 1px solid #fff
+}
+
+.mind_men {
+  background: #057ca0
+}
+
+.mind_lis a:hover, .mind_t, .mind_lis a:active, .mind_lis a:focus, .mind_lis a:visited, .mind_pre, .mind_con .glyphicon, .mind_con .inegi-fldesp, .mind_con a:hover {
+  color: #057ca0
+}
+
+.padPest.pactivo.mind_navt, .mind_border {
+  border-bottom: 3px solid #057ca0
+}
+
+.mind_navt > li.active > a, .mind_navt > li.active > a:focus, .mind_navt > li.active > a:hover {
+  border: 1px solid #057ca0;
+  border-bottom: 1px solid #fff
+}
+
+.mpes_men {
+  background: #2da1ff
+}
+
+.mpes_lis a:hover, .mpes_t, .mpes_lis a:active, .mpes_lis a:focus, .mpes_lis a:visited, .mpes_pre, .mpes_con .glyphicon, .mpes_con .inegi-fldesp, .mpes_con a:hover {
+  color: #2da1ff
+}
+
+.padPest.pactivo.mpes_navt, .mpes_border {
+  border-bottom: 3px solid #2da1ff
+}
+
+.mpes_navt > li.active > a, .mpes_navt > li.active > a:focus, .mpes_navt > li.active > a:hover {
+  border: 1px solid #2da1ff;
+  border-bottom: 1px solid #fff
+}
+
+.mres_men {
+  background: #e16c32
+}
+
+.mres_lis a:hover, .mres_t, .mres_lis a:active, .mres_lis a:focus, .mres_lis a:visited, .mres_pre, .mres_con .glyphicon, .mres_con .inegi-fldesp, .mres_con a:hover {
+  color: #e16c32
+}
+
+.padPest.pactivo.mres_navt, .mres_border {
+  border-bottom: 3px solid #e16c32
+}
+
+.mres_navt > li.active > a, .mres_navt > li.active > a:focus, .mres_navt > li.active > a:hover {
+  border: 1px solid #e16c32;
+  border-bottom: 1px solid #fff
+}
+
+.mrsg_men {
+  background: #992525
+}
+
+.mrsg_lis a:hover, .mrsg_t, .mrsg_lis a:active, .mrsg_lis a:focus, .mrsg_lis a:visited, .mrsg_pre, .mrsg_con .glyphicon, .mrsg_con .inegi-fldesp, .mrsg_con a:hover {
+  color: #992525
+}
+
+.padPest.pactivo.mrsg_navt, .mrsg_border {
+  border-bottom: 3px solid #992525
+}
+
+.mrsg_navt > li.active > a, .mrsg_navt > li.active > a:focus, .mrsg_navt > li.active > a:hover {
+  border: 1px solid #992525;
+  border-bottom: 1px solid #fff
+}
+
+.msue_men {
+  background: #7f3d01
+}
+
+.msue_lis a:hover, .msue_t, .msue_lis a:active, .msue_lis a:focus, .msue_lis a:visited, .msue_pre, .msue_con .glyphicon, .msue_con .inegi-fldesp, .msue_con a:hover {
+  color: #7f3d01
+}
+
+.padPest.pactivo.msue_navt, .msue_border {
+  border-bottom: 3px solid #7f3d01
+}
+
+.msue_navt > li.active > a, .msue_navt > li.active > a:focus, .msue_navt > li.active > a:hover {
+  border: 1px solid #7f3d01;
+  border-bottom: 1px solid #fff
+}
+
+.mtrn_men {
+  background: #074266
+}
+
+.mtrn_lis a:hover, .mtrn_t, .mtrn_lis a:active, .mtrn_lis a:focus, .mtrn_lis a:visited, .mtrn_pre, .mtrn_con .glyphicon, .mtrn_con .inegi-fldesp, .mtrn_con a:hover {
+  color: #074266
+}
+
+.padPest.pactivo.mtrn_navt, .mtrn_border {
+  border-bottom: 3px solid #074266
+}
+
+.mtrn_navt > li.active > a, .mtrn_navt > li.active > a:focus, .mtrn_navt > li.active > a:hover {
+  border: 1px solid #074266;
+  border-bottom: 1px solid #fff
+}
+
+.inve_men {
+  background: #06616f
+}
+
+.inve_lis a:hover, .inve_t, .inve_lis a:active, .inve_lis a:focus, .inve_lis a:visited, .inve_pre, .inve_con .glyphicon, .inve_con .inegi-fldesp, .inve_con a:hover {
+  color: #06616f
+}
+
+.padPest.pactivo.inve_navt, .inve_border {
+  border-bottom: 3px solid #06616f
+}
+
+.inve_navt > li.active > a, .inve_navt > li.active > a:focus, .inve_navt > li.active > a:hover {
+  border: 1px solid #06616f;
+  border-bottom: 1px solid #fff
+}
+
+.eg_men {
+  background: #674cae
+}
+
+.eg_lis a:hover, .eg_t, .eg_lis a:active, .eg_lis a:focus, .eg_lis a:visited, .eg_pre, .eg_con .glyphicon, .eg_con .inegi-fldesp, .eg_con a:hover {
+  color: #674cae
+}
+
+.padPest.pactivo.eg_navt, .eg_border {
+  border-bottom: 3px solid #674cae
+}
+
+.eg_navt > li.active > a, .eg_navt > li.active > a:focus, .eg_navt > li.active > a:hover {
+  border: 1px solid #674cae;
+  border-bottom: 1px solid #fff
+}
+
+.prgen_men {
+  background: #595959
+}
+
+.prgen_lis a:hover, .prgen_t, .prgen_lis a:active, .prgen_lis a:focus, .prgen_lis a:visited, .prgen_pre, .prgen_con .glyphicon, .prgen_con .inegi-fldesp, .prgen_con a:hover {
+  color: #595959
+}
+
+.padPest.pactivo.prgen_navt, .prgen_border {
+  border-bottom: 3px solid #595959
+}
+
+.prgen_navt > li.active > a, .prgen_navt > li.active > a:focus, .prgen_navt > li.active > a:hover {
+  border: 1px solid #595959;
+  border-bottom: 1px solid #fff
+}
+
+.CAE_men {
+  background: #060
+}
+
+.CAE_lis a:hover, .CAE_t, .CAE_lis a:active, .CAE_lis a:focus, .CAE_lis a:visited, .CAE_pre, .CAE_con .glyphicon, .CAE_con .inegi-fldesp, .CAE_con a:hover {
+  color: #060
+}
+
+.padPest.pactivo.CAE_navt, .CAE_border {
+  border-bottom: 3px solid #060
+}
+
+.CAE_navt > li.active > a, .CAE_navt > li.active > a:focus, .CAE_navt > li.active > a:hover {
+  border: 1px solid #060;
+  border-bottom: 1px solid #fff
+}
+
+.CG_men {
+  background: #620042
+}
+
+.CG_lis a:hover, .CG_t, .CG_lis a:active, .CG_lis a:focus, .CG_lis a:visited, .CG_pre, .CG_con .glyphicon, .CG_con .inegi-fldesp, .CG_con a:hover {
+  color: #620042
+}
+
+.padPest.pactivo.CG_navt, .CG_border {
+  border-bottom: 3px solid #620042
+}
+
+.CG_navt > li.active > a, .CG_navt > li.active > a:focus, .CG_navt > li.active > a:hover {
+  border: 1px solid #620042;
+  border-bottom: 1px solid #fff
+}
+
+.CE_men {
+  background: #006161
+}
+
+.CE_lis a:hover, .CE_t, .CE_lis a:active, .CE_lis a:focus, .CE_lis a:visited, .CE_pre, .CE_con .glyphicon, .CE_con .inegi-fldesp, .CE_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.CE_navt, .CE_border {
+  border-bottom: 3px solid #006161
+}
+
+.CE_navt > li.active > a, .CE_navt > li.active > a:focus, .CE_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.CPV_men {
+  background: #a33100
+}
+
+.CPV_lis a:hover, .CPV_t, .CPV_lis a:active, .CPV_lis a:focus, .CPV_lis a:visited, .CPV_pre, .CPV_con .glyphicon, .CPV_con .inegi-fldesp, .CPV_con a:hover {
+  color: #a33100
+}
+
+.padPest.pactivo.CPV_navt, .CPV_border {
+  border-bottom: 3px solid #a33100
+}
+
+.CPV_navt > li.active > a, .CPV_navt > li.active > a:focus, .CPV_navt > li.active > a:hover {
+  border: 1px solid #a33100;
+  border-bottom: 1px solid #fff
+}
+
+.EA_men {
+  background: #8a4700
+}
+
+.EA_lis a:hover, .EA_t, .EA_lis a:active, .EA_lis a:focus, .EA_lis a:visited, .EA_pre, .EA_con .glyphicon, .EA_con .inegi-fldesp, .EA_con a:hover {
+  color: #8a4700
+}
+
+.padPest.pactivo.EA_navt, .EA_border {
+  border-bottom: 3px solid #8a4700
+}
+
+.EA_navt > li.active > a, .EA_navt > li.active > a:focus, .EA_navt > li.active > a:hover {
+  border: 1px solid #8a4700;
+  border-bottom: 1px solid #fff
+}
+
+.EA_men {
+  background: #8a4700
+}
+
+.EA_lis a:hover, .EA_t, .EA_lis a:active, .EA_lis a:focus, .EA_lis a:visited, .EA_pre, .EA_con .glyphicon, .EA_con .inegi-fldesp, .EA_con a:hover {
+  color: #8a4700
+}
+
+.padPest.pactivo.EA_navt, .EA_border {
+  border-bottom: 3px solid #8a4700
+}
+
+.EA_navt > li.active > a, .EA_navt > li.active > a:focus, .EA_navt > li.active > a:hover {
+  border: 1px solid #8a4700;
+  border-bottom: 1px solid #fff
+}
+
+.EE_men {
+  background: #b30000
+}
+
+.EE_lis a:hover, .EE_t, .EE_lis a:active, .EE_lis a:focus, .EE_lis a:visited, .EE_pre, .EE_con .glyphicon, .EE_con .inegi-fldesp, .EE_con a:hover {
+  color: #b30000
+}
+
+.padPest.pactivo.EE_navt, .EE_border {
+  border-bottom: 3px solid #b30000
+}
+
+.EE_navt > li.active > a, .EE_navt > li.active > a:focus, .EE_navt > li.active > a:hover {
+  border: 1px solid #b30000;
+  border-bottom: 1px solid #fff
+}
+
+.EH_men {
+  background: #a90073
+}
+
+.EH_lis a:hover, .EH_t, .EH_lis a:active, .EH_lis a:focus, .EH_lis a:visited, .EH_pre, .EH_con .glyphicon, .EH_con .inegi-fldesp, .EH_con a:hover {
+  color: #a90073
+}
+
+.padPest.pactivo.EH_navt, .EH_border {
+  border-bottom: 3px solid #a90073
+}
+
+.EH_navt > li.active > a, .EH_navt > li.active > a:focus, .EH_navt > li.active > a:hover {
+  border: 1px solid #a90073;
+  border-bottom: 1px solid #fff
+}
+
+.IP_men {
+  background: #006161
+}
+
+.IP_lis a:hover, .IP_t, .IP_lis a:active, .IP_lis a:focus, .IP_lis a:visited, .IP_pre, .IP_con .glyphicon, .IP_con .inegi-fldesp, .IP_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.IP_navt, .IP_border {
+  border-bottom: 3px solid #006161
+}
+
+.IP_navt > li.active > a, .IP_navt > li.active > a:focus, .IP_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.OP_men {
+  background: #08507c
+}
+
+.OP_lis a:hover, .OP_t, .OP_lis a:active, .OP_lis a:focus, .OP_lis a:visited, .OP_pre, .OP_con .glyphicon, .OP_con .inegi-fldesp, .OP_con a:hover {
+  color: #08507c
+}
+
+.padPest.pactivo.OP_navt, .OP_border {
+  border-bottom: 3px solid #08507c
+}
+
+.OP_navt > li.active > a, .OP_navt > li.active > a:focus, .OP_navt > li.active > a:hover {
+  border: 1px solid #08507c;
+  border-bottom: 1px solid #fff
+}
+
+.RA-E_men {
+  background: #060
+}
+
+.RA-E_lis a:hover, .RA-E_t, .RA-E_lis a:active, .RA-E_lis a:focus, .RA-E_lis a:visited, .RA-E_pre, .RA-E_con .glyphicon, .RA-E_con .inegi-fldesp, .RA-E_con a:hover {
+  color: #060
+}
+
+.padPest.pactivo.RA-E_navt, .RA-E_border {
+  border-bottom: 3px solid #060
+}
+
+.RA-E_navt > li.active > a, .RA-E_navt > li.active > a:focus, .RA-E_navt > li.active > a:hover {
+  border: 1px solid #060;
+  border-bottom: 1px solid #fff
+}
+
+.SCN_men {
+  background: #006161
+}
+
+.SCN_lis a:hover, .SCN_t, .SCN_lis a:active, .SCN_lis a:focus, .SCN_lis a:visited, .SCN_pre, .SCN_con .glyphicon, .SCN_con .inegi-fldesp, .SCN_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.SCN_navt, .SCN_border {
+  border-bottom: 3px solid #006161
+}
+
+.SCN_navt > li.active > a, .SCN_navt > li.active > a:focus, .SCN_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.AGP_men {
+  background: #060
+}
+
+.AGP_lis a:hover, .AGP_t, .AGP_lis a:active, .AGP_lis a:focus, .AGP_lis a:visited, .AGP_pre, .AGP_con .glyphicon, .AGP_con .inegi-fldesp, .AGP_con a:hover {
+  color: #060
+}
+
+.padPest.pactivo.AGP_navt, .AGP_border {
+  border-bottom: 3px solid #060
+}
+
+.AGP_navt > li.active > a, .AGP_navt > li.active > a:focus, .AGP_navt > li.active > a:hover {
+  border: 1px solid #060;
+  border-bottom: 1px solid #fff
+}
+
+.CAT_men {
+  background: #060
+}
+
+.CAT_lis a:hover, .CAT_t, .CAT_lis a:active, .CAT_lis a:focus, .CAT_lis a:visited, .CAT_pre, .CAT_con .glyphicon, .CAT_con .inegi-fldesp, .CAT_con a:hover {
+  color: #060
+}
+
+.padPest.pactivo.CAT_navt, .CAT_border {
+  border-bottom: 3px solid #060
+}
+
+.CAT_navt > li.active > a, .CAT_navt > li.active > a:focus, .CAT_navt > li.active > a:hover {
+  border: 1px solid #060;
+  border-bottom: 1px solid #fff
+}
+
+.COM_men {
+  background: #006161
+}
+
+.COM_lis a:hover, .COM_t, .COM_lis a:active, .COM_lis a:focus, .COM_lis a:visited, .COM_pre, .COM_con .glyphicon, .COM_con .inegi-fldesp, .COM_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.COM_navt, .COM_border {
+  border-bottom: 3px solid #006161
+}
+
+.COM_navt > li.active > a, .COM_navt > li.active > a:focus, .COM_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.COMEXT_men {
+  background: #006161
+}
+
+.COMEXT_lis a:hover, .COMEXT_t, .COMEXT_lis a:active, .COMEXT_lis a:focus, .COMEXT_lis a:visited, .COMEXT_pre, .COMEXT_con .glyphicon, .COMEXT_con .inegi-fldesp, .COMEXT_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.COMEXT_navt, .COMEXT_border {
+  border-bottom: 3px solid #006161
+}
+
+.COMEXT_navt > li.active > a, .COMEXT_navt > li.active > a:focus, .COMEXT_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.CONS_men {
+  background: #006161
+}
+
+.CONS_lis a:hover, .CONS_t, .CONS_lis a:active, .CONS_lis a:focus, .CONS_lis a:visited, .CONS_pre, .CONS_con .glyphicon, .CONS_con .inegi-fldesp, .CONS_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.CONS_navt, .CONS_border {
+  border-bottom: 3px solid #006161
+}
+
+.CONS_navt > li.active > a, .CONS_navt > li.active > a:focus, .CONS_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.EDU_men {
+  background: #a33100
+}
+
+.EDU_lis a:hover, .EDU_t, .EDU_lis a:active, .EDU_lis a:focus, .EDU_lis a:visited, .EDU_pre, .EDU_con .glyphicon, .EDU_con .inegi-fldesp, .EDU_con a:hover {
+  color: #a33100
+}
+
+.padPest.pactivo.EDU_navt, .EDU_border {
+  border-bottom: 3px solid #a33100
+}
+
+.EDU_navt > li.active > a, .EDU_navt > li.active > a:focus, .EDU_navt > li.active > a:hover {
+  border: 1px solid #a33100;
+  border-bottom: 1px solid #fff
+}
+
+.EOC_men {
+  background: #006161
+}
+
+.EOC_lis a:hover, .EOC_t, .EOC_lis a:active, .EOC_lis a:focus, .EOC_lis a:visited, .EOC_pre, .EOC_con .glyphicon, .EOC_con .inegi-fldesp, .EOC_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.EOC_navt, .EOC_border {
+  border-bottom: 3px solid #006161
+}
+
+.EOC_navt > li.active > a, .EOC_navt > li.active > a:focus, .EOC_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.EMS_men {
+  background: #006161
+}
+
+.EMS_lis a:hover, .EMS_t, .EMS_lis a:active, .EMS_lis a:focus, .EMS_lis a:visited, .EMS_pre, .EMS_con .glyphicon, .EMS_con .inegi-fldesp, .EMS_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.EMS_navt, .EMS_border {
+  border-bottom: 3px solid #006161
+}
+
+.EMS_navt > li.active > a, .EMS_navt > li.active > a:focus, .EMS_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.GOB_men {
+  background: #620042
+}
+
+.GOB_lis a:hover, .GOB_t, .GOB_lis a:active, .GOB_lis a:focus, .GOB_lis a:visited, .GOB_pre, .GOB_con .glyphicon, .GOB_con .inegi-fldesp, .GOB_con a:hover {
+  color: #620042
+}
+
+.padPest.pactivo.GOB_navt, .GOB_border {
+  border-bottom: 3px solid #620042
+}
+
+.GOB_navt > li.active > a, .GOB_navt > li.active > a:focus, .GOB_navt > li.active > a:hover {
+  border: 1px solid #620042;
+  border-bottom: 1px solid #fff
+}
+
+.HOGVIV_men {
+  background: #a33100
+}
+
+.HOGVIV_lis a:hover, .HOGVIV_t, .HOGVIV_lis a:active, .HOGVIV_lis a:focus, .HOGVIV_lis a:visited, .HOGVIV_pre, .HOGVIV_con .glyphicon, .HOGVIV_con .inegi-fldesp, .HOGVIV_con a:hover {
+  color: #a33100
+}
+
+.padPest.pactivo.HOGVIV_navt, .HOGVIV_border {
+  border-bottom: 3px solid #a33100
+}
+
+.HOGVIV_navt > li.active > a, .HOGVIV_navt > li.active > a:focus, .HOGVIV_navt > li.active > a:hover {
+  border: 1px solid #a33100;
+  border-bottom: 1px solid #fff
+}
+
+.IMTE_men {
+  background: #ae191b
+}
+
+.IMTE_lis a:hover, .IMTE_t, .IMTE_lis a:active, .IMTE_lis a:focus, .IMTE_lis a:visited, .IMTE_pre, .IMTE_con .glyphicon, .IMTE_con .inegi-fldesp, .IMTE_con a:hover {
+  color: #ae191b
+}
+
+.padPest.pactivo.IMTE_navt, .IMTE_border {
+  border-bottom: 3px solid #ae191b
+}
+
+.IMTE_navt > li.active > a, .IMTE_navt > li.active > a:focus, .IMTE_navt > li.active > a:hover {
+  border: 1px solid #ae191b;
+  border-bottom: 1px solid #fff
+}
+
+.MAN_men {
+  background: #006161
+}
+
+.MAN_lis a:hover, .MAN_t, .MAN_lis a:active, .MAN_lis a:focus, .MAN_lis a:visited, .MAN_pre, .MAN_con .glyphicon, .MAN_con .inegi-fldesp, .MAN_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.MAN_navt, .MAN_border {
+  border-bottom: 3px solid #006161
+}
+
+.MAN_navt > li.active > a, .MAN_navt > li.active > a:focus, .MAN_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.MAP_men {
+  background: #595959
+}
+
+.MAP_lis a:hover, .MAP_t, .MAP_lis a:active, .MAP_lis a:focus, .MAP_lis a:visited, .MAP_pre, .MAP_con .glyphicon, .MAP_con .inegi-fldesp, .MAP_con a:hover {
+  color: #595959
+}
+
+.padPest.pactivo.MAP_navt, .MAP_border {
+  border-bottom: 3px solid #595959
+}
+
+.MAP_navt > li.active > a, .MAP_navt > li.active > a:focus, .MAP_navt > li.active > a:hover {
+  border: 1px solid #595959;
+  border-bottom: 1px solid #fff
+}
+
+.MGEOD_men {
+  background: #595959
+}
+
+.MGEOD_lis a:hover, .MGEOD_t, .MGEOD_lis a:active, .MGEOD_lis a:focus, .MGEOD_lis a:visited, .MGEOD_pre, .MGEOD_con .glyphicon, .MGEOD_con .inegi-fldesp, .MGEOD_con a:hover {
+  color: #595959
+}
+
+.padPest.pactivo.MGEOD_navt, .MGEOD_border {
+  border-bottom: 3px solid #595959
+}
+
+.MGEOD_navt > li.active > a, .MGEOD_navt > li.active > a:focus, .MGEOD_navt > li.active > a:hover {
+  border: 1px solid #595959;
+  border-bottom: 1px solid #fff
+}
+
+.MGEOE_men {
+  background: #066e5a
+}
+
+.MGEOE_lis a:hover, .MGEOE_t, .MGEOE_lis a:active, .MGEOE_lis a:focus, .MGEOE_lis a:visited, .MGEOE_pre, .MGEOE_con .glyphicon, .MGEOE_con .inegi-fldesp, .MGEOE_con a:hover {
+  color: #066e5a
+}
+
+.padPest.pactivo.MGEOE_navt, .MGEOE_border {
+  border-bottom: 3px solid #066e5a
+}
+
+.MGEOE_navt > li.active > a, .MGEOE_navt > li.active > a:focus, .MGEOE_navt > li.active > a:hover {
+  border: 1px solid #066e5a;
+  border-bottom: 1px solid #fff
+}
+
+.MA_men {
+  background: #060
+}
+
+.MA_lis a:hover, .MA_t, .MA_lis a:active, .MA_lis a:focus, .MA_lis a:visited, .MA_pre, .MA_con .glyphicon, .MA_con .inegi-fldesp, .MA_con a:hover {
+  color: #060
+}
+
+.padPest.pactivo.MA_navt, .MA_border {
+  border-bottom: 3px solid #060
+}
+
+.MA_navt > li.active > a, .MA_navt > li.active > a:focus, .MA_navt > li.active > a:hover {
+  border: 1px solid #060;
+  border-bottom: 1px solid #fff
+}
+
+.MIN_men {
+  background: #006161
+}
+
+.MIN_lis a:hover, .MIN_t, .MIN_lis a:active, .MIN_lis a:focus, .MIN_lis a:visited, .MIN_pre, .MIN_con .glyphicon, .MIN_con .inegi-fldesp, .MIN_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.MIN_navt, .MIN_border {
+  border-bottom: 3px solid #006161
+}
+
+.MIN_navt > li.active > a, .MIN_navt > li.active > a:focus, .MIN_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.PCN_men {
+  background: #006161
+}
+
+.PCN_lis a:hover, .PCN_t, .PCN_lis a:active, .PCN_lis a:focus, .PCN_lis a:visited, .PCN_pre, .PCN_con .glyphicon, .PCN_con .inegi-fldesp, .PCN_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.PCN_navt, .PCN_border {
+  border-bottom: 3px solid #006161
+}
+
+.PCN_navt > li.active > a, .PCN_navt > li.active > a:focus, .PCN_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.POB_men {
+  background: #a33100
+}
+
+.POB_lis a:hover, .POB_t, .POB_lis a:active, .POB_lis a:focus, .POB_lis a:visited, .POB_pre, .POB_con .glyphicon, .POB_con .inegi-fldesp, .POB_con a:hover {
+  color: #a33100
+}
+
+.padPest.pactivo.POB_navt, .POB_border {
+  border-bottom: 3px solid #a33100
+}
+
+.POB_navt > li.active > a, .POB_navt > li.active > a:focus, .POB_navt > li.active > a:hover {
+  border: 1px solid #a33100;
+  border-bottom: 1px solid #fff
+}
+
+.PREC_men {
+  background: #006161
+}
+
+.PREC_lis a:hover, .PREC_t, .PREC_lis a:active, .PREC_lis a:focus, .PREC_lis a:visited, .PREC_pre, .PREC_con .glyphicon, .PREC_con .inegi-fldesp, .PREC_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.PREC_navt, .PREC_border {
+  border-bottom: 3px solid #006161
+}
+
+.PREC_navt > li.active > a, .PREC_navt > li.active > a:focus, .PREC_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.SSS_men {
+  background: #a33100
+}
+
+.SSS_lis a:hover, .SSS_t, .SSS_lis a:active, .SSS_lis a:focus, .SSS_lis a:visited, .SSS_pre, .SSS_con .glyphicon, .SSS_con .inegi-fldesp, .SSS_con a:hover {
+  color: #a33100
+}
+
+.padPest.pactivo.SSS_navt, .SSS_border {
+  border-bottom: 3px solid #a33100
+}
+
+.SSS_navt > li.active > a, .SSS_navt > li.active > a:focus, .SSS_navt > li.active > a:hover {
+  border: 1px solid #a33100;
+  border-bottom: 1px solid #fff
+}
+
+.SPJ_men {
+  background: #620042
+}
+
+.SPJ_lis a:hover, .SPJ_t, .SPJ_lis a:active, .SPJ_lis a:focus, .SPJ_lis a:visited, .SPJ_pre, .SPJ_con .glyphicon, .SPJ_con .inegi-fldesp, .SPJ_con a:hover {
+  color: #620042
+}
+
+.padPest.pactivo.SPJ_navt, .SPJ_border {
+  border-bottom: 3px solid #620042
+}
+
+.SPJ_navt > li.active > a, .SPJ_navt > li.active > a:focus, .SPJ_navt > li.active > a:hover {
+  border: 1px solid #620042;
+  border-bottom: 1px solid #fff
+}
+
+.SNF_men {
+  background: #006161
+}
+
+.SNF_lis a:hover, .SNF_t, .SNF_lis a:active, .SNF_lis a:focus, .SNF_lis a:visited, .SNF_pre, .SNF_con .glyphicon, .SNF_con .inegi-fldesp, .SNF_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.SNF_navt, .SNF_border {
+  border-bottom: 3px solid #006161
+}
+
+.SNF_navt > li.active > a, .SNF_navt > li.active > a:focus, .SNF_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.TICS_men {
+  background: #006161
+}
+
+.TICS_lis a:hover, .TICS_t, .TICS_lis a:active, .TICS_lis a:focus, .TICS_lis a:visited, .TICS_pre, .TICS_con .glyphicon, .TICS_con .inegi-fldesp, .TICS_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.TICS_navt, .TICS_border {
+  border-bottom: 3px solid #006161
+}
+
+.TICS_navt > li.active > a, .TICS_navt > li.active > a:focus, .TICS_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.TRANS_men {
+  background: #006161
+}
+
+.TRANS_lis a:hover, .TRANS_t, .TRANS_lis a:active, .TRANS_lis a:focus, .TRANS_lis a:visited, .TRANS_pre, .TRANS_con .glyphicon, .TRANS_con .inegi-fldesp, .TRANS_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.TRANS_navt, .TRANS_border {
+  border-bottom: 3px solid #006161
+}
+
+.TRANS_navt > li.active > a, .TRANS_navt > li.active > a:focus, .TRANS_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.TUR_men {
+  background: #006161
+}
+
+.TUR_lis a:hover, .TUR_t, .TUR_lis a:active, .TUR_lis a:focus, .TUR_lis a:visited, .TUR_pre, .TUR_con .glyphicon, .TUR_con .inegi-fldesp, .TUR_con a:hover {
+  color: #006161
+}
+
+.padPest.pactivo.TUR_navt, .TUR_border {
+  border-bottom: 3px solid #006161
+}
+
+.TUR_navt > li.active > a, .TUR_navt > li.active > a:focus, .TUR_navt > li.active > a:hover {
+  border: 1px solid #006161;
+  border-bottom: 1px solid #fff
+}
+
+.PG_men {
+  background: #674cae
+}
+
+.PG_lis a:hover, .PG_t, .PG_lis a:active, .PG_lis a:focus, .PG_lis a:visited, .PG_pre, .PG_con .glyphicon, .PG_con .inegi-fldesp, .PG_con a:hover {
+  color: #674cae
+}
+
+.padPest.pactivo.PG_navt, .PG_border {
+  border-bottom: 3px solid #674cae
+}
+
+.PG_navt > li.active > a, .PG_navt > li.active > a:focus, .PG_navt > li.active > a:hover {
+  border: 1px solid #674cae;
+  border-bottom: 1px solid #fff
+}
+
+.pesTema:hover {
+  text-decoration: none;
+  color: #337ab7 !important
+}
+
+.padPest.pactivo a:hover {
+  color: #333 !important
+}
+
+.ginegi_men {
+  background: #005c99
+}
+
+.ginegi_lis a:hover, .ginegi_t, .ginegi_lis a:active, .ginegi_lis a:focus, .ginegi_lis a:visited, .ginegi_pre, .ginegi_con .glyphicon, .ginegi_con .inegi-fldesp, .ginegi_con a:hover {
+    color: #79142A
+}
+
+.padPest.pactivo.ginegi_navt, .ginegi_border {
+  border-bottom: 3px solid #005c99
+}
+
+.ginegi_navt > li.active > a, .ginegi_navt > li.active > a:focus, .ginegi_navt > li.active > a:hover {
+  border: 1px solid #005c99;
+  border-bottom: 1px solid #fff
+}
+
+@media print {
+  #columna-2 {
+    display: none !important
+  }
+
+  .tab-content > .tab-pane {
+    display: block !important;
+    visibility: visible !important
+  }
+}
+
+.gapminder {
+  color: #00748f;
+  font-weight: bold
+}
+
+#tableFuentescontGraficagrafica span, #tableFuentescntDivCuadroCVgrafica span, #tableFuentescontGraficagrafica span {
+  color: #2279c0 !important
+}
+
+.btn-default {
+  background-color: #2279c0;
+  border-color: #2279c0;
+  color: #fff
+}
+
+  .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active, .open > .dropdown-toggle.btn-default {
+    background-color: #1a5992;
+    border-color: #1a5992;
+    color: #fff
+  }
+
+  .btn-default[disabled] {
+    color: #949494;
+    background-color: #f0f0f0
+  }
+
+.menubuttons .btn-default {
+  background-color: #fff;
+  border-color: #adadad;
+  color: #000
+}
+
+  .menubuttons .btn-default:hover, .menubuttons .btn-default:focus, .menubuttons .btn-default.focus, .menubuttons .btn-default:active, .menubuttons .btn-default.active, .menubuttons .open > .dropdown-toggle.btn-default {
+    background-color: #ecebeb;
+    border-color: #889399
+  }
+
+#herSite .btn-default {
+  background-color: #fff
+}
+
+  #herSite .btn-default:hover, #herSite .btn-default:focus, #herSite .btn-default.focus, #herSite .btn-default:active, #herSite .btn-default.active, #herSite .open > .dropdown-toggle.btn-default {
+    background-color: #e6e6e6;
+    border-color: transparent
+  }
+
+#pestana {
+  position: relative
+}
+
+.biinegiMen {
+  float: right;
+  padding: 8px;
+  margin: auto;
+  margin-top: 27px;
+  text-align: right;
+  display: block;
+  background-color: #889399;
+  border-radius: 4px;
+  color: #fff !important;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  font-size: 13px;
+  text-decoration: none !important
+}
+
+@media(max-width:400px) {
+  #herSite .dropdown-menu[aria-labelledby*="trelacionados"] {
+    width: 240px !important
+  }
+
+  #herSite .dropdown-menu[aria-labelledby*="dLabel"] {
+    width: 300px !important
+  }
+}
